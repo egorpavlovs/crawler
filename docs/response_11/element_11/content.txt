@@ -1,0 +1,300 @@
+
+
+
+Editing Template:UEFA Champions League winners - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+			
+
+Editing Template:UEFA Champions League winners			
+								
+								Jump to navigation
+				Jump to search
+				
+ When making major changes to this template please be sure to update its documentation. 
+
+ You are not logged in. Your IP address will be publicly visible if you make any edits. If you log in or create an account, your edits will be attributed to a user name, among other benefits.
+
+
+Content that violates any copyrights will be deleted. Encyclopedic content must be verifiable. Work submitted to Wikipedia can be edited, used, and redistributed—by anyone—subject to certain terms and conditions.
+
+
+Anti-spam check.
+Do not fill this in!
+
+
+{{Navbox
+| name       = UEFA Champions League winners
+| title      = [[UEFA Champions League|<span style="color: #FFFFFF">European Cup and UEFA Champions League</span>]] [[List of European Cup and UEFA Champions League finals|<span style="color: #FFFFFF">winners</span>]]
+| state      = {{{state|autocollapse}}}
+| basestyle  = background-color:#002C5F; color:#FFFFFF;
+| bodyclass  = hlist
+| group1 = European Cup
+| list1 = 
+{{Navbox|child
+  | group1 = 1950s
+  | list1  = 
+*'''[[1955–56 European Cup|1955–56]]:''' {{flagicon|Spain|variant=1945|size=15px}} [[Real Madrid C.F.|Real Madrid]]
+*'''[[1956–57 European Cup|1956–57]]:''' {{flagicon|Spain|variant=1945|size=15px}} [[Real Madrid C.F.|Real Madrid]]
+*'''[[1957–58 European Cup|1957–58]]:''' {{flagicon|Spain|variant=1945|size=15px}} [[Real Madrid C.F.|Real Madrid]]
+*'''[[1958–59 European Cup|1958–59]]:''' {{flagicon|Spain|variant=1945|size=15px}} [[Real Madrid C.F.|Real Madrid]]
+*'''[[1959–60 European Cup|1959–60]]:''' {{flagicon|Spain|variant=1945|size=15px}} [[Real Madrid C.F.|Real Madrid]]
+  | group2 = 1960s
+  | list2  = 
+*'''[[1960–61 European Cup|1960–61]]:''' {{flagicon|Portugal|size=15px}} [[S.L. Benfica|Benfica]]
+*'''[[1961–62 European Cup|1961–62]]:''' {{flagicon|Portugal|size=15px}} [[S.L. Benfica|Benfica]]
+*'''[[1962–63 European Cup|1962–63]]:''' {{flagicon|Italy|size=15px}} [[A.C. Milan|Milan]]
+*'''[[1963–64 European Cup|1963–64]]:''' {{flagicon|Italy|size=15px}} [[Inter Milan|Internazionale]]
+*'''[[1964–65 European Cup|1964–65]]:''' {{flagicon|Italy|size=15px}} [[Inter Milan|Internazionale]]
+*'''[[1965–66 European Cup|1965–66]]:''' {{flagicon|Spain|variant=1945|size=15px}} [[Real Madrid C.F.|Real Madrid]]
+*'''[[1966–67 European Cup|1966–67]]:''' {{flagicon|Scotland|size=15px}} [[Celtic F.C.|Celtic]]
+*'''[[1967–68 European Cup|1967–68]]:''' {{flagicon|England|size=15px}} [[Manchester United F.C.|Manchester United]]
+*'''[[1968–69 European Cup|1968–69]]:''' {{flagicon|Italy|size=15px}} [[A.C. Milan|Milan]]
+*'''[[1969–70 European Cup|1969–70]]:''' {{flagicon|Netherlands|size=15px}} [[Feyenoord]]
+  | group3 = 1970s
+  | list3  = 
+*'''[[1970–71 European Cup|1970–71]]:''' {{flagicon|Netherlands|size=15px}} [[AFC Ajax|Ajax]]
+*'''[[1971–72 European Cup|1971–72]]:''' {{flagicon|Netherlands|size=15px}} [[AFC Ajax|Ajax]]
+*'''[[1972–73 European Cup|1972–73]]:''' {{flagicon|Netherlands|size=15px}} [[AFC Ajax|Ajax]]
+*'''[[1973–74 European Cup|1973–74]]:''' {{flagicon|West Germany|size=15px}} [[FC Bayern Munich|Bayern Munich]]
+*'''[[1974–75 European Cup|1974–75]]:''' {{flagicon|West Germany|size=15px}} [[FC Bayern Munich|Bayern Munich]]
+*'''[[1975–76 European Cup|1975–76]]:''' {{flagicon|West Germany|size=15px}} [[FC Bayern Munich|Bayern Munich]]
+*'''[[1976–77 European Cup|1976–77]]:''' {{flagicon|England|size=15px}} [[Liverpool F.C.|Liverpool]]
+*'''[[1977–78 European Cup|1977–78]]:''' {{flagicon|England|size=15px}} [[Liverpool F.C.|Liverpool]]
+*'''[[1978–79 European Cup|1978–79]]:''' {{flagicon|England|size=15px}} [[Nottingham Forest F.C.|Nottingham Forest]]
+*'''[[1979–80 European Cup|1979–80]]:''' {{flagicon|England|size=15px}} [[Nottingham Forest F.C.|Nottingham Forest]]
+  | group4 = 1980s
+  | list4  = 
+*'''[[1980–81 European Cup|1980–81]]:''' {{flagicon|England|size=15px}} [[Liverpool F.C.|Liverpool]]
+*'''[[1981–82 European Cup|1981–82]]:''' {{flagicon|England|size=15px}} [[Aston Villa F.C.|Aston Villa]]
+*'''[[1982–83 European Cup|1982–83]]:''' {{flagicon|West Germany|size=15px}} [[Hamburger SV|Hamburg]]
+*'''[[1983–84 European Cup|1983–84]]:''' {{flagicon|England|size=15px}} [[Liverpool F.C.|Liverpool]]
+*'''[[1984–85 European Cup|1984–85]]:''' {{flagicon|Italy|size=15px}} [[Juventus F.C.|Juventus]]
+*'''[[1985–86 European Cup|1985–86]]:''' {{flagicon|Romania|variant=1965|size=15px}} [[FC Steaua București|Steaua București]]
+*'''[[1986–87 European Cup|1986–87]]:''' {{flagicon|Portugal|size=15px}} [[FC Porto|Porto]]
+*'''[[1987–88 European Cup|1987–88]]:''' {{flagicon|Netherlands|size=15px}} [[PSV Eindhoven|PSV]]
+*'''[[1988–89 European Cup|1988–89]]:''' {{flagicon|Italy|size=15px}} [[A.C. Milan|Milan]]
+*'''[[1989–90 European Cup|1989–90]]:''' {{flagicon|Italy|size=15px}} [[A.C. Milan|Milan]]
+  | group5 = 1990s
+  | list5  = 
+*'''[[1990–91 European Cup|1990–91]]:''' {{flagicon|Yugoslavia|size=15px}} [[Red Star Belgrade]]
+*'''[[1991–92 European Cup|1991–92]]:''' {{flagicon|Spain|size=15px}} [[FC Barcelona|Barcelona]]
+}}
+|group2=UEFA Champions League
+|list2=
+{{Navbox|child
+  | group1 = 1990s
+  | list1  = 
+*'''[[1992–93 UEFA Champions League|1992–93]]:''' {{flagicon|France|size=15px}} [[Olympique de Marseille|Marseille]]
+*'''[[1993–94 UEFA Champions League|1993–94]]:''' {{flagicon|Italy|size=15px}} [[A.C. Milan|Milan]]
+*'''[[1994–95 UEFA Champions League|1994–95]]:''' {{flagicon|Netherlands|size=15px}} [[AFC Ajax|Ajax]]
+*'''[[1995–96 UEFA Champions League|1995–96]]:''' {{flagicon|Italy|size=15px}} [[Juventus F.C.|Juventus]]
+*'''[[1996–97 UEFA Champions League|1996–97]]:''' {{flagicon|Germany|size=15px}} [[Borussia Dortmund]]
+*'''[[1997–98 UEFA Champions League|1997–98]]:''' {{flagicon|Spain|size=15px}} [[Real Madrid C.F.|Real Madrid]]
+*'''[[1998–99 UEFA Champions League|1998–99]]:''' {{flagicon|England|size=15px}} [[Manchester United F.C.|Manchester United]]
+*'''[[1999–2000 UEFA Champions League|1999–2000]]:''' {{flagicon|Spain|size=15px}} [[Real Madrid C.F.|Real Madrid]]
+  | group2 = 2000s
+  | list2  =
+*'''[[2000–01 UEFA Champions League|2000–01]]:''' {{flagicon|Germany|size=15px}} [[FC Bayern Munich|Bayern Munich]]
+*'''[[2001–02 UEFA Champions League|2001–02]]:''' {{flagicon|Spain|size=15px}} [[Real Madrid C.F.|Real Madrid]]
+*'''[[2002–03 UEFA Champions League|2002–03]]:''' {{flagicon|Italy|variant=2003|size=15px}} [[A.C. Milan|Milan]]
+*'''[[2003–04 UEFA Champions League|2003–04]]:''' {{flagicon|Portugal|size=15px}} [[FC Porto|Porto]]
+*'''[[2004–05 UEFA Champions League|2004–05]]:''' {{flagicon|England|size=15px}} [[Liverpool F.C.|Liverpool]]
+*'''[[2005–06 UEFA Champions League|2005–06]]:''' {{flagicon|Spain|size=15px}} [[FC Barcelona|Barcelona]]
+*'''[[2006–07 UEFA Champions League|2006–07]]:''' {{flagicon|Italy|size=15px}} [[A.C. Milan|Milan]]
+*'''[[2007–08 UEFA Champions League|2007–08]]:''' {{flagicon|England|size=15px}} [[Manchester United F.C.|Manchester United]]
+*'''[[2008–09 UEFA Champions League|2008–09]]:''' {{flagicon|Spain|size=15px}} [[FC Barcelona|Barcelona]]
+*'''[[2009–10 UEFA Champions League|2009–10]]:''' {{flagicon|Italy|size=15px}} [[Inter Milan|Internazionale]]
+  | group3 = 2010s
+  | list3  =
+*'''[[2010–11 UEFA Champions League|2010–11]]:''' {{flagicon|Spain|size=15px}} [[FC Barcelona|Barcelona]]
+*'''[[2011–12 UEFA Champions League|2011–12]]:''' {{flagicon|England|size=15px}} [[Chelsea F.C.|Chelsea]]
+*'''[[2012–13 UEFA Champions League|2012–13]]:''' {{flagicon|Germany|size=15px}} [[FC Bayern Munich|Bayern Munich]]
+*'''[[2013–14 UEFA Champions League|2013–14]]:''' {{flagicon|Spain|size=15px}} [[Real Madrid C.F.|Real Madrid]]
+*'''[[2014–15 UEFA Champions League|2014–15]]:''' {{flagicon|Spain|size=15px}} [[FC Barcelona|Barcelona]]
+*'''[[2015–16 UEFA Champions League|2015–16]]:''' {{flagicon|Spain|size=15px}} [[Real Madrid C.F.|Real Madrid]]
+*'''[[2016–17 UEFA Champions League|2016–17]]:''' {{flagicon|Spain|size=15px}} [[Real Madrid C.F.|Real Madrid]]
+*'''[[2017–18 UEFA Champions League|2017–18]]:''' {{flagicon|Spain|size=15px}} [[Real Madrid C.F.|Real Madrid]]
+}}
+| below = 
+* [[List of European Cup and UEFA Champions League finals|<span style="color: #FFFFFF">Finals</span>]]
+* [[List of European Cup and UEFA Champions League winning managers|<span style="color: #FFFFFF">Winning managers</span>]]
+* [[List of European Cup and UEFA Champions League winning players|<span style="color: #FFFFFF">Winning players</span>]]
+}}<noinclude>
+{{Documentation}}
+</noinclude>
+
+Edit summary (Briefly describe your changes)
+
+By publishing changes, you agree to the Terms of Use, and you irrevocably agree to release your contribution under the CC BY-SA 3.0 License and the GFDL. You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.
+
+
+
+
+
+	Cancel
+	Editing help (opens in new window)
+
+Preview page with this template (what's this?)
+
+
+
+
+Copy and paste: – — ° ′ ″ ≈ ≠ ≤ ≥ ± − × ÷ ← → · §   Sign your posts on talk pages: ~~~~   Cite your sources: <ref></ref> 
+
+
+
+{{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &nbsp;   <s></s>   <sup></sup>   <sub></sub>   <code></code>   <pre></pre>   <blockquote></blockquote>   <ref></ref> <ref name="" />   {{Reflist}}   <references />   <includeonly></includeonly>   <noinclude></noinclude>   {{DEFAULTSORT:}}   <nowiki></nowiki>   <!-- -->   <span class="plainlinks"></span> 
+
+
+
+
+Symbols: ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ∞   ‘ ’ “ ” ‹› «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ № ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   ♭ ♯ ♮   © ® ™
+Latin: A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç   D d Ď ď Đ đ Ḍ ḍ Ð ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ Ɛ ɛ Ǝ ǝ Ə ə   F f   G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ọ ọ Ő ő Ø ø Œ œ   Ɔ ɔ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ   S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß Ð ð Þ þ Ŋ ŋ Ə ə 
+Greek: Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ   Ι ι Κ κ Λ λ Μ μ   Ν ν Ξ ξ Ο ο Π π   Ρ ρ Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω ω   {{Polytonic|}} 
+Cyrillic: А а Б б В в Г г   Ґ ґ Ѓ ѓ Д д Ђ ђ   Е е Ё ё Є є Ж ж   З з Ѕ ѕ И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   Н н Њ њ О о П п   Р р С с Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч Џ џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э э Ю ю Я я   ́ 
+IPA: t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ β θ ð ʃ ʒ ɕ ʑ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ⱱ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ ʍ ɧ   ʼ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ ǁ   ɨ ʉ ɯ   ɪ ʏ ʊ   ø ɘ ɵ ɤ   ə ɚ   ɛ œ ɜ ɝ ɞ ʌ ɔ   æ   ɐ ɶ ɑ ɒ   ʰ ʱ ʷ ʲ ˠ ˤ ⁿ ˡ   ˈ ˌ ː ˑ ̪   {{IPA|}}
+
+
+
+Wikidata entities used in this page
+
+Template:UEFA Champions League winners: Sitelink
+Pages transcluded onto the current version of this page (help) :
+
+Template:Big (view source) (template protected)Template:Collapsible option (view source) (template protected)Template:Country data England (view source) (template protected)Template:Country data France (view source) (template protected)Template:Country data Germany (view source) (template protected)Template:Country data Italy (view source) (template protected)Template:Country data Netherlands (view source) (template protected)Template:Country data Portugal (view source) (template protected)Template:Country data Romania (view source) (template protected)Template:Country data Scotland (view source) (template protected)Template:Country data Spain (view source) (template protected)Template:Country data West Germany (view source) (template protected)Template:Country data Yugoslavia (view source) (template protected)Template:Documentation (view source) (template protected)Template:Documentation subpage (view source) (template protected)Template:Flagicon (view source) (template protected)Template:Flagicon/core (view source) (template protected)Template:Navbox (view source) (template protected)Template:Para (view source) (template protected)Template:Sandbox other (view source) (template protected)Template:Template other (view source) (protected)Template:UEFA Champions League winners/doc (edit) Template:Yesno (view source) (protected)Template:Yesno-no (view source) (template protected)Module:Arguments (view source) (protected)Module:Color contrast (view source) (template protected)Module:Color contrast/colors (view source) (template protected)Module:Documentation (view source) (template protected)Module:Documentation/config (view source) (template protected)Module:Message box (view source) (protected)Module:Message box/configuration (view source) (protected)Module:Navbar (view source) (protected)Module:Navbox (view source) (template protected)Module:No globals (view source) (template protected)Module:Yesno (view source) (protected)This page is a member of 1 hidden category (help) :
+
+Category:Navboxes using background colours
+
+
+					
+						Retrieved from "https://en.wikipedia.org/wiki/Template:UEFA_Champions_League_winners"					
+								
+							
+		
+		
+			Navigation menu
+			
+									
+						Personal tools
+						
+							Not logged inTalkContributionsCreate accountLog in						
+					
+									
+										
+						Namespaces
+						
+							TemplateTalk						
+					
+										
+												
+						
+							Variants
+						
+						
+													
+					
+									
+				
+										
+						Views
+						
+							ReadEditView history						
+					
+										
+						
+						More
+						
+													
+					
+										
+						
+							Search
+						
+						
+							
+															
+						
+					
+									
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPage informationWikidata item				
+							
+		
+			
+			Languages
+			
+								
+									
+							
+		
+				
+		
+				
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+	

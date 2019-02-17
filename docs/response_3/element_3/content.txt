@@ -1,0 +1,348 @@
+
+
+
+Editing Template:Bundesliga - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+			
+
+Editing Template:Bundesliga			
+								
+								Jump to navigation
+				Jump to search
+				 Group notice   Page notice 
+
+ You are not logged in. Your IP address will be publicly visible if you make any edits. If you log in or create an account, your edits will be attributed to a user name, among other benefits.
+
+
+Content that violates any copyrights will be deleted. Encyclopedic content must be verifiable. Work submitted to Wikipedia can be edited, used, and redistributed—by anyone—subject to certain terms and conditions.
+
+
+Anti-spam check.
+Do not fill this in!
+
+
+{{Navbox
+|name = Bundesliga
+|title = [[Bundesliga]]
+|bodyclass = hlist
+
+| group1 = [[2018–19 Bundesliga|2018–19]] clubs
+| list1 =
+* [[FC Augsburg]]
+* [[Hertha BSC]]
+* [[SV Werder Bremen|Werder Bremen]]
+* [[Borussia Dortmund]]
+* [[Fortuna Düsseldorf]]
+* [[Eintracht Frankfurt]]
+* [[SC Freiburg]]
+* [[Hannover 96]]
+* [[TSG 1899 Hoffenheim|1899 Hoffenheim]]
+* [[RB Leipzig]]
+* [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+* [[1. FSV Mainz 05|Mainz 05]]
+* [[Borussia Mönchengladbach]]
+* [[FC Bayern Munich|Bayern Munich]]
+* [[1. FC Nürnberg]]
+* [[FC Schalke 04|Schalke 04]]
+* [[VfB Stuttgart]]
+* [[VfL Wolfsburg]]
+
+| group2 = Former clubs
+| list2 =
+* [[TSV 1860 Munich]]
+* [[Alemannia Aachen]]
+* [[Arminia Bielefeld]]
+* [[KFC Uerdingen 05|Bayer 05 Uerdingen/KFC Uerdingen 05]]
+* [[Blau-Weiß 1890 Berlin|Blau-Weiß 90 Berlin]]
+* [[VfL Bochum]]
+* [[Borussia Neunkirchen]]
+* [[Dynamo Dresden]]
+* [[Eintracht Braunschweig]]
+* [[FC Energie Cottbus|Energie Cottbus]]
+* [[SV Darmstadt 98|Darmstadt 98]]
+* [[SC Fortuna Köln|Fortuna Köln]]
+* [[SpVgg Greuther Fürth]]
+* [[Hamburger SV]]
+* [[F.C. Hansa Rostock|Hansa Rostock]]
+* [[FC 08 Homburg]]
+* [[FC Ingolstadt 04|FC Ingolstadt]]
+* [[1. FC Kaiserslautern]]
+* [[Karlsruher SC]]
+* [[Kickers Offenbach]]
+* [[1. FC Köln]]
+* [[1. FC Lokomotive Leipzig|VfB Leipzig]]
+* [[MSV Duisburg|Meidericher SV/MSV Duisburg]]
+* [[SC Preußen Münster|Preußen Münster]]
+* [[Rot-Weiss Essen]]
+* [[Rot-Weiß Oberhausen]]
+* [[1. FC Saarbrücken]]
+* [[SC Paderborn 07]]
+* [[FC St. Pauli]]
+* [[Stuttgarter Kickers]]
+* [[SC Tasmania 1900 Berlin|Tasmania Berlin]]
+* [[Tennis Borussia Berlin]]
+* [[SSV Ulm 1846]]
+* [[SpVgg Unterhaching]]
+* [[SV Waldhof Mannheim|Waldhof Mannheim]]
+* [[SG Wattenscheid 09|Wattenscheid 09]]
+* [[Wuppertaler SV]]
+
+|group3 = History
+|list3 =
+* [[Reichsliga]]
+* [[Introduction of the Bundesliga|Introduction in 1963]]
+* [[Bundesliga scandal (1965)|1965 scandal]]
+* [[Bundesliga scandal (1971)|1971 scandal]]
+* [[Bundesliga scandal (2005)|2005 scandal]]
+* [[Promotion to the Bundesliga|Promotion]]
+
+|group4 = Lists and statistics 
+|list4 =
+* [[All-time Bundesliga table|All-time table]]
+* [[List of German football champions|Champions]]
+* [[List of clubs in the Bundesliga|List of clubs]]
+* [[Bundesliga records|Records]]
+** [[Borussia Mönchengladbach 12–0 Borussia Dortmund]]
+* [[List of foreign Bundesliga players|Foreign players]]
+* [[List of Bundesliga top scorers|Top scorers]]
+* [[Bundesliga attendance|Attendance]]
+
+|group5 = Seasons
+|list5 =
+* [[1963–64 Bundesliga|1963–64]]
+* [[1964–65 Bundesliga|1964–65]]
+* [[1965–66 Bundesliga|1965–66]]
+* [[1966–67 Bundesliga|1966–67]]
+* [[1967–68 Bundesliga|1967–68]]
+* [[1968–69 Bundesliga|1968–69]]
+* [[1969–70 Bundesliga|1969–70]]
+* [[1970–71 Bundesliga|1970–71]]
+* [[1971–72 Bundesliga|1971–72]]
+* [[1972–73 Bundesliga|1972–73]]
+* [[1973–74 Bundesliga|1973–74]]
+* [[1974–75 Bundesliga|1974–75]]
+* [[1975–76 Bundesliga|1975–76]]
+* [[1976–77 Bundesliga|1976–77]]
+* [[1977–78 Bundesliga|1977–78]]
+* [[1978–79 Bundesliga|1978–79]]
+* [[1979–80 Bundesliga|1979–80]]
+* [[1980–81 Bundesliga|1980–81]]
+* [[1981–82 Bundesliga|1981–82]]
+* [[1982–83 Bundesliga|1982–83]]
+* [[1983–84 Bundesliga|1983–84]]
+* [[1984–85 Bundesliga|1984–85]]
+* [[1985–86 Bundesliga|1985–86]]
+* [[1986–87 Bundesliga|1986–87]]
+* [[1987–88 Bundesliga|1987–88]]
+* [[1988–89 Bundesliga|1988–89]]
+* [[1989–90 Bundesliga|1989–90]]
+* [[1990–91 Bundesliga|1990–91]]
+* [[1991–92 Bundesliga|1991–92]]
+* [[1992–93 Bundesliga|1992–93]]
+* [[1993–94 Bundesliga|1993–94]]
+* [[1994–95 Bundesliga|1994–95]]
+* [[1995–96 Bundesliga|1995–96]]
+* [[1996–97 Bundesliga|1996–97]]
+* [[1997–98 Bundesliga|1997–98]]
+* [[1998–99 Bundesliga|1998–99]]
+* [[1999–2000 Bundesliga|1999–2000]]
+* [[2000–01 Bundesliga|2000–01]]
+* [[2001–02 Bundesliga|2001–02]]
+* [[2002–03 Bundesliga|2002–03]]
+* [[2003–04 Bundesliga|2003–04]]
+* [[2004–05 Bundesliga|2004–05]]
+* [[2005–06 Bundesliga|2005–06]]
+* [[2006–07 Bundesliga|2006–07]]
+* [[2007–08 Bundesliga|2007–08]]
+* [[2008–09 Bundesliga|2008–09]]
+* [[2009–10 Bundesliga|2009–10]]
+* [[2010–11 Bundesliga|2010–11]]
+* [[2011–12 Bundesliga|2011–12]]
+* [[2012–13 Bundesliga|2012–13]]
+* [[2013–14 Bundesliga|2013–14]]
+* [[2014–15 Bundesliga|2014–15]]
+* [[2015–16 Bundesliga|2015–16]]
+* [[2016–17 Bundesliga|2016–17]]
+* [[2017–18 Bundesliga|2017–18]]
+* [[2018–19 Bundesliga|2018–19]]
+
+|below =
+* {{icon|category}} [[:Category:Bundesliga|Category]]
+** [[:Category:Bundesliga managers|Managers]]
+** [[:Category:Bundesliga players|Players]]
+}}<noinclude>
+[[Category:Bundesliga navigational boxes]]
+</noinclude>
+
+Edit summary (Briefly describe your changes)
+
+By publishing changes, you agree to the Terms of Use, and you irrevocably agree to release your contribution under the CC BY-SA 3.0 License and the GFDL. You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.
+
+
+
+
+
+	Cancel
+	Editing help (opens in new window)
+
+Preview page with this template (what's this?)
+
+
+
+
+Copy and paste: – — ° ′ ″ ≈ ≠ ≤ ≥ ± − × ÷ ← → · §   Sign your posts on talk pages: ~~~~   Cite your sources: <ref></ref> 
+
+
+
+{{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &nbsp;   <s></s>   <sup></sup>   <sub></sub>   <code></code>   <pre></pre>   <blockquote></blockquote>   <ref></ref> <ref name="" />   {{Reflist}}   <references />   <includeonly></includeonly>   <noinclude></noinclude>   {{DEFAULTSORT:}}   <nowiki></nowiki>   <!-- -->   <span class="plainlinks"></span> 
+
+
+
+
+Symbols: ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ∞   ‘ ’ “ ” ‹› «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ № ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   ♭ ♯ ♮   © ® ™
+Latin: A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç   D d Ď ď Đ đ Ḍ ḍ Ð ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ Ɛ ɛ Ǝ ǝ Ə ə   F f   G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ọ ọ Ő ő Ø ø Œ œ   Ɔ ɔ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ   S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß Ð ð Þ þ Ŋ ŋ Ə ə 
+Greek: Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ   Ι ι Κ κ Λ λ Μ μ   Ν ν Ξ ξ Ο ο Π π   Ρ ρ Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω ω   {{Polytonic|}} 
+Cyrillic: А а Б б В в Г г   Ґ ґ Ѓ ѓ Д д Ђ ђ   Е е Ё ё Є є Ж ж   З з Ѕ ѕ И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   Н н Њ њ О о П п   Р р С с Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч Џ џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э э Ю ю Я я   ́ 
+IPA: t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ β θ ð ʃ ʒ ɕ ʑ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ⱱ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ ʍ ɧ   ʼ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ ǁ   ɨ ʉ ɯ   ɪ ʏ ʊ   ø ɘ ɵ ɤ   ə ɚ   ɛ œ ɜ ɝ ɞ ʌ ɔ   æ   ɐ ɶ ɑ ɒ   ʰ ʱ ʷ ʲ ˠ ˤ ⁿ ˡ   ˈ ˌ ː ˑ ̪   {{IPA|}}
+
+
+
+Wikidata entities used in this page
+
+Template:German Bundesliga clubs: Sitelink
+Pages transcluded onto the current version of this page (help) :
+
+Template:Icon (view source) (template protected)Template:Navbox (view source) (template protected)Module:Arguments (view source) (protected)Module:Color contrast (view source) (template protected)Module:Color contrast/colors (view source) (template protected)Module:Icon (view source) (template protected)Module:Icon/data (view source) (template protected)Module:Navbar (view source) (protected)Module:Navbox (view source) (template protected)
+
+					
+						Retrieved from "https://en.wikipedia.org/wiki/Template:Bundesliga"					
+								
+							
+		
+		
+			Navigation menu
+			
+									
+						Personal tools
+						
+							Not logged inTalkContributionsCreate accountLog in						
+					
+									
+										
+						Namespaces
+						
+							TemplateTalk						
+					
+										
+												
+						
+							Variants
+						
+						
+													
+					
+									
+				
+										
+						Views
+						
+							ReadEditView history						
+					
+										
+						
+						More
+						
+													
+					
+										
+						
+							Search
+						
+						
+							
+															
+						
+					
+									
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPage informationWikidata item				
+							
+		
+			
+			Languages
+			
+								
+									
+							
+		
+				
+		
+				
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+	
