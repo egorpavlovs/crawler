@@ -6,3 +6,5 @@ require 'bundler/inline'
 
 gem 'arachnid2'
 gem 'nokogiri'
+
+gem 'wombat'

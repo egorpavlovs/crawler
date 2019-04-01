@@ -1,9 +1,6 @@
 
-
-
-Editing Template:UEFA Cup Winners' Cup winners - Wikipedia
-
-
+  
+    
 
 
 
@@ -27,221 +24,470 @@ Editing Template:UEFA Cup Winners' Cup winners - Wikipedia
 
 
 
-		
-		
-		
-			
-			
-
-Editing Template:UEFA Cup Winners' Cup winners			
-								
-								Jump to navigation
-				Jump to search
-				 Group notice   Page notice 
-
- You are not logged in. Your IP address will be publicly visible if you make any edits. If you log in or create an account, your edits will be attributed to a user name, among other benefits.
-
-
-Content that violates any copyrights will be deleted. Encyclopedic content must be verifiable. Work submitted to Wikipedia can be edited, used, and redistributed—by anyone—subject to certain terms and conditions.
-
-
-Anti-spam check.
-Do not fill this in!
-
-
-{{Navbox
-|name=UEFA Cup Winners' Cup winners
-|title=[[UEFA Cup Winners' Cup]] [[List of UEFA Cup Winners' Cup finals|winners]]
-|state= {{{state|autocollapse}}}
-|listclass=hlist
-|group1=Winners
-|list1=
-*'''[[1960–61 European Cup Winners' Cup|1960–61]]:''' {{flagicon|Italy|size=15px}} [[ACF Fiorentina|Fiorentina]]
-*'''[[1961–62 European Cup Winners' Cup|1961–62]]:''' {{flagicon|Spain|variant=1945|size=15px}} [[Atlético Madrid]]
-*'''[[1962–63 European Cup Winners' Cup|1962–63]]:''' {{flagicon|England|size=15px}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
-*'''[[1963–64 European Cup Winners' Cup|1963–64]]:''' {{flagicon|Portugal|size=15px}} [[Sporting Clube de Portugal|Sporting CP]]
-*'''[[1964–65 European Cup Winners' Cup|1964–65]]:''' {{flagicon|England|size=15px}} [[West Ham United F.C.|West Ham United]]
-*'''[[1965–66 European Cup Winners' Cup|1965–66]]:''' {{flagicon|West Germany|size=15px}} [[Borussia Dortmund]]
-*'''[[1966–67 European Cup Winners' Cup|1966–67]]:''' {{flagicon|West Germany|size=15px}} [[FC Bayern Munich|Bayern Munich]]
-*'''[[1967–68 European Cup Winners' Cup|1967–68]]:''' {{flagicon|Italy|size=15px}} [[A.C. Milan|Milan]]
-*'''[[1968–69 European Cup Winners' Cup|1968–69]]:''' {{flagicon|Czechoslovakia|size=15px}} [[ŠK Slovan Bratislava|Slovan Bratislava]]
-*'''[[1969–70 European Cup Winners' Cup|1969–70]]:''' {{flagicon|England|size=15px}} [[Manchester City F.C.|Manchester City]]
-*'''[[1970–71 European Cup Winners' Cup|1970–71]]:''' {{flagicon|England|size=15px}} [[Chelsea F.C.|Chelsea]]
-*'''[[1971–72 European Cup Winners' Cup|1971–72]]:''' {{flagicon|Scotland|size=15px}} [[Rangers F.C.|Rangers]]
-*'''[[1972–73 European Cup Winners' Cup|1972–73]]:''' {{flagicon|Italy|size=15px}} [[A.C. Milan|Milan]]
-*'''[[1973–74 European Cup Winners' Cup|1973–74]]:''' {{flagicon|East Germany|size=15px}} [[1. FC Magdeburg|Magdeburg]]
-*'''[[1974–75 European Cup Winners' Cup|1974–75]]:''' {{flagicon|Soviet Union|size=15px}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
-*'''[[1975–76 European Cup Winners' Cup|1975–76]]:''' {{flagicon|Belgium|size=15px}} [[R.S.C. Anderlecht|Anderlecht]]
-*'''[[1976–77 European Cup Winners' Cup|1976–77]]:''' {{flagicon|Germany|size=15px}} [[Hamburger SV|Hamburg]]
-*'''[[1977–78 European Cup Winners' Cup|1977–78]]:''' {{flagicon|Belgium|size=15px}} [[R.S.C. Anderlecht|Anderlecht]]
-*'''[[1978–79 European Cup Winners' Cup|1978–79]]:''' {{flagicon|Spain|variant=1977|size=15px}} [[FC Barcelona|Barcelona]]
-*'''[[1979–80 European Cup Winners' Cup|1979–80]]:''' {{flagicon|Spain|variant=1977|size=15px}} [[Valencia CF|Valencia]]
-*'''[[1980–81 European Cup Winners' Cup|1980–81]]:''' {{flagicon|Soviet Union|size=15px}} [[FC Dinamo Tbilisi|Dinamo Tbilisi]]
-*'''[[1981–82 European Cup Winners' Cup|1981–82]]:''' {{flagicon|Spain|size=15px}} [[FC Barcelona|Barcelona]]
-*'''[[1982–83 European Cup Winners' Cup|1982–83]]:''' {{flagicon|Scotland|size=15px}} [[Aberdeen F.C.|Aberdeen]]
-*'''[[1983–84 European Cup Winners' Cup|1983–84]]:''' {{flagicon|Italy|size=15px}} [[Juventus F.C.|Juventus]]
-*'''[[1984–85 European Cup Winners' Cup|1984–85]]:''' {{flagicon|England|size=15px}} [[Everton F.C.|Everton]]
-*'''[[1985–86 European Cup Winners' Cup|1985–86]]:''' {{flagicon|Soviet Union|size=15px}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
-*'''[[1986–87 European Cup Winners' Cup|1986–87]]:''' {{flagicon|Netherlands|size=15px}} [[AFC Ajax|Ajax]]
-*'''[[1987–88 European Cup Winners' Cup|1987–88]]:''' {{flagicon|Belgium|size=15px}} [[KV Mechelen|Mechelen]]
-*'''[[1988–89 European Cup Winners' Cup|1988–89]]:''' {{flagicon|Spain|size=15px}} [[FC Barcelona|Barcelona]]
-*'''[[1989–90 European Cup Winners' Cup|1989–90]]:''' {{flagicon|Italy|size=15px}}  [[U.C. Sampdoria|Sampdoria]]
-*'''[[1990–91 European Cup Winners' Cup|1990–91]]:''' {{flagicon|England|size=15px}} [[Manchester United F.C.|Manchester United]]
-*'''[[1991–92 European Cup Winners' Cup|1991–92]]:''' {{flagicon|Germany|size=15px}} [[SV Werder Bremen|Werder Bremen]]
-*'''[[1992–93 European Cup Winners' Cup|1992–93]]:''' {{flagicon|Italy|size=15px}} [[Parma Calcio 1913|Parma]]
-*'''[[1993–94 European Cup Winners' Cup|1993–94]]:''' {{flagicon|England|size=15px}} [[Arsenal F.C.|Arsenal]]
-*'''[[1994–95 UEFA Cup Winners' Cup|1994–95]]:''' {{flagicon|Spain|size=15px}} [[Real Zaragoza]]
-*'''[[1995–96 UEFA Cup Winners' Cup|1995–96]]:''' {{flagicon|France|size=15px}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
-*'''[[1996–97 UEFA Cup Winners' Cup|1996–97]]:''' {{flagicon|Spain|size=15px}} [[FC Barcelona|Barcelona]]
-*'''[[1997–98 UEFA Cup Winners' Cup|1997–98]]:''' {{flagicon|England|size=15px}} [[Chelsea F.C.|Chelsea]]
-*'''[[1998–99 UEFA Cup Winners' Cup|1998–99]]:''' {{flagicon|Italy|size=15px}} [[S.S. Lazio|Lazio]]
-}}<noinclude>
-{{collapsible option}}
-[[Category:UEFA Cup Winners' Cup]]
-[[Category:UEFA competition navigational boxes]]
-</noinclude>
-
-Edit summary (Briefly describe your changes)
-
-By publishing changes, you agree to the Terms of Use, and you irrevocably agree to release your contribution under the CC BY-SA 3.0 License and the GFDL. You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.
 
 
 
 
 
-	Cancel
-	Editing help (opens in new window)
-
-Preview page with this template (what's this?)
 
 
 
 
-Copy and paste: – — ° ′ ″ ≈ ≠ ≤ ≥ ± − × ÷ ← → · §   Sign your posts on talk pages: ~~~~   Cite your sources: <ref></ref> 
+
+    
+
+    
+    JSON:API — Implementations
+  
+
+  
+    
+  
+    
+      
+      
+        JSON API
+      
+        Specification
+      
+        Extensions
+      
+        Recommendations
+      
+        Examples
+      
+        Implementations
+      
+        FAQ
+      
+        About
+      
+      
+        v1.0 Stable
+      
+    
+  
+
+
+    
+    
+      
+        
+          
+            
+            
+              Implementations
+            
+          
+        
+      
+      
+        
+          
+            Implementations
+          
+        
+        
+          
+          The following are projects implementing JSON:API. If you’d like your project listed, send a
+pull request.
+
+
+  Note: This specification marked 1.0 on May 29th, 2015. The implementations
+below have not been verified for compliance, but a test suite is now being
+assembled to vet them.
+
+
+ Client libraries
+
+ JavaScript
+
+
+  ember-data is one of the original exemplar implementations. There is now an official adapter to support json-api.
+  backbone-jsonapi is a Backbone adapter for JSON:API. Supports fetching Models & Collections from a JSON:API source.
+  backbone-relational-jsonapi is a parsing layer for Backbone.Relational. Entities specified in JSON:API are automatically parsed to be injected into Backbone.Relational relations.
+  orbit.js is a standalone library for
+coordinating access to data sources and keeping their contents synchronized.
+Orbit’s Common Library includes
+JSONAPISource
+for accessing JSON:API servers. Orbit can be used
+independently or with Ember.js through the
+ember-orbit integration library.
+  YAYSON is an isomorphic library for serializing and reading JSON:API data. Extend it to fit your models or just use it with plain objects.
+  Ember JSON API Resources is an Ember CLI Addon for a lightweight solution for data persistence in an Ember.js application.
+  hapi-json-api Plugin for the hapi framework; enforces Accept/Content-type rules and rewrites Boom errors to be spec compliant.
+  jsonapi-datastore is a lightweight standalone library for reading, serializing, and synchronizing relational JSON:API data.
+  json-api-store A lightweight JavaScript library for using JSON:API in the browser.
+  superagent-jsonapify A really lightweight (50 lines) JSON-API client addon for superagent, the isomorphic ajax client.
+  angular-jsonapi An AngularJS JSON:API client
+  redux-json-api A library which integrated JSON:APIs with Redux store
+  devour-client A lightweight, framework agnostic, highly flexible JSON:API client
+  json-api-normalizer Normalizes JSON:API documents for state management solutions like Redux and Mobx
+  jsona Data formatter that creates customizable, simplified objects from JSON or stored reduxObject (result object of json-api-normalizer), and creates correct JSON from the same simplified objects.
+  active-resource A standalone, convention-driven JavaScript ORM that maps to your JSON:API server and allows for advanced queries and relational management through a smooth interface.
+  redux-bees A nice, short and declarative way to interact with JSON:APIs in React+Redux
+  Coloquent Javascript/Typescript library mapping objects and their interrelations to JSON:API, with a clean, fluent ActiveRecord-like (e.g. similar to Laravel’s Eloquent) syntax  for creating, retrieving, updating and deleting model objects.
+  kitsu A simple, lightweight & framework agnostic JSON:API client
+  Sarala JSON API data formatter is a simple and fluent framework agnostic javascript library to transform standard JSON:API responses to simple JSON objects and vice versa.
+  Sarala is a javascript package which gives you a Laravel Eloquent like syntax to perform CRUD operations against an JSON:API built according to JSON:API specification.
+  jsonapi-client A convenient module to consume a jsonapi service
+  JSORM is an
+isomorphic ActiveRecord clone that issues JSON:API requests instead of SQL and is part of the larger JSONAPI Suite.
+  jsonapi-vuex A module for interacting with a jsonapi service using a Vuex store, restructuring/normalizing records to make life easier.
+  heather-js A library for parsing JSONAPI into objects from ES6 classes.
+  @reststate/client - a stateless client providing easy access to standard JSON:API operations for a configured resource.
+  @reststate/mobx - a zero-configuration way to fetch and store JSON:API data in objects implemented with the MobX state management library, for use in React or other apps.
+  @reststate/vuex - a zero-configuration way to fetch and store JSON:API data in Vuex stores.
+
+
+ Typescript
+
+  ts-angular-jsonapi A JSON:API library developed for AngularJS in Typescript
+  ngrx-json-api A JSON:API client for Angular 2 ngrx toolset
+  ts-jsonapi JSON:API (De)Serializer in Typescript
+  ngx-jsonapi A JSON:API fast client library for Angular with storage+memory cache.
+  @crnk/angular-ngrx Angular helper library for ngrx-json-api and (optionally) crnk. Facilitates the binding of UI components to ngrx-json-api, most notably tables and forms.
+  Grivet A JSON:API client library written in TypeScript with emphasis on RESTful traversal of resources according to HATEOAS principles.
+
+
+ iOS
+
+
+  jsonapi-ios is a library for loading data from a JSON:API datasource. Parses JSON:API data into models with support for auto-linking of resources and custom model classes.
+  Spine is a Swift library for working with JSON:API APIs. It supports mapping to custom model classes, fetching, advanced querying, linking and persisting.
+  Vox is a Swift JSON:API client framework with custom model classes support and nice networking interface.
+
+
+ Ruby
+
+
+  jsonapi-consumer a ruby library for consuming JSONAPI payloads.
+  JsonApiClient attempts to give you a query building framework that is easy to understand (similar to ActiveRecord scopes).
+  JsonApiParser a ruby library for parsing/validating/handling JSONAPI documents.
+  Munson is a ruby JSONAPI client that can act as an ORM or integrate with your models via fine-grained agnosticism. Easy to configure and customize. Includes a chainable/customizable query builder, attributes API and dirty tracking.
+  json-api-vanilla a reference-aware ruby library for JSONAPI deserialization that doesn’t require setting up classes.
+  SimpleJSONAPIClient gives you lower-level control for API operations, while your models and their relationships maintain a neat, ActiveRecord-inspired interface.
+  jsonapi-simple_client a client to interact with a Server API that implements the JSON:API spec.
+  jsonapi-record a client framework for interacting JSON:API Spec compliant APIs in Ruby.
+
+
+ PHP
+
+
+  Art4 / json-api-client is a library for validating and handling the response body in a simple OOP way.
+  woohoolabs / yang is a PSR-7 compatible library that is able to build and send requests, and handle responses.
+  enm/json-api-client is an abstract client-side PHP implementation of the json:api specification which is based on enm/json-api-common. It allows you to send json:api requests via your own http client implementation or via a buzz or guzzle client.
+  pz/doctrine-rest library provides basic tools for implementation of JSON:API with Doctrine 2
+  swisnl/json-api-client Is a package for mapping remote {json:api} resources to Eloquent like models and collections.
+
+
+ Dart
+
+
+  jsonapi_client is a simple JSON:API v1.0 client written in Dart.
+  json_api_document is a JSON:API Document model/parser implemented in Dart.
+
+
+ Perl
+
+
+  PONAPI::Client is a simple/extensible JSON:API v1.0 client.
+
+
+ Java
+
+
+  jsonapi-converter is a Java JSON:API v1.0 client. Besides providing means for serialisation/deserialisation, client comes with Retrofit plugin.
+  crnk.io is a JSON:API framework for clients and servers. On the client-side it targets
+both Java and Android development. As for the backend side a rich set of modules helps with the integration of various
+Java frameworks.
+
+
+ Android
+
+  faogustavo/JSONApi library for deserializing automatic. It can be integrated with retrofit. It has some ideas from Morpheus and jsonapi-converter but has some aditionals.
+  moshi-jsonapi serialize/deserialize JSON:API v1.0 using fantistic Moshi API! With friendly Java interface and easy integration with Retrofit.
+  Morpheus library for deserializing your resources with automatic mapping for relationships. Uses gson to map objects in attributes.
+
+
+ R
+
+
+  rjsonapi is an R client to consume JSONAPI’s.
+
+
+ Elm
+
+
+  elm-jsonapi provides decoders and helper functions for clients receiving JSON:API payloads.
+  elm-jsonapi-http wraps elm-jsonapi and handles the details of content negotiation with JSON:API-compliant servers, providing a smoother interface for consumers.
+
+
+ .NET
+
+
+  Hypermedia.JsonApi.Client is a set of extension methods to the HttpClient which allow for reading
+and writing of JSON:API documents.
+  JsonApiSerializer is a configurationless JSON:API serialization and deserialization library implemented as a Json.NET JsonSerializerSetting. It leverages the existing power and flexibility of Json.NET while providing a sensible default mapping between JSON:API and CLR objects.
+  JsonApiFramework.Client is a portable .NET Standard/Core client-side framework where developers define the domain model of the resources of a hypermedia API server either through configuration and/or conventions called a service model. With a service model developers can use a document context that represents a session with a JSON:API compound document for reading or writing of various JSON:API abstractions such as resources, resource identifiers, relationships, links, meta information, error objects, and version information all serialized/deserialized as high level CLR objects.
+
+
+ Python
+
+
+  jsonapi-requests Simple and fun high-level JSONAPI client for Python. Contains ORM which makes consuming the API even easier, in a DRY manner. It has a low-level API similar to requests as well, which gives you all the flexibility that you may need.
+  jsonapi-client Comprehensive yet easy-to-use, pythonic, ORM-like access to JSON:API services
+  json-api-doc JSON:API parser returning a simple Python dictionary
+
+
+ Elixir
+
+
+  JsonApiClient JSON:API Client Library For Elixir
+
+
+ Server libraries
+
+ Swift
+
+  aonawale / JSONAPISerializer is a server side swift framework agnostic library that implements JSON:API v1.0.
+
+
+ PHP
+
+
+  tobscure / json-api
+  neomerx / json-api is a framework agnostic library that fully implements JSON:API v1.0.
+  limoncello-php / app is a JSON:API v1.0 quick start server application for neomerx / json-api.
+  lode / jsonapi a simple and friendly library, easy to understand for people without knowledge of the specification.
+  woohoolabs / yin is a library for advanced users aiming for efficiency and elegance.
+  nilportugues / json-api Serializer transformers outputting valid API responses in JSON and JSON:API formats.
+  nilportugues / symfony2-jsonapi-transformer Symfony 2 JSON:API Transformer Bundle outputting valid API responses in JSON and JSON:API formats.
+  nilportugues / laravel5-jsonapi-transformer Laravel 5 JSON:API Transformer Package outputting valid API responses in JSON and JSON:API formats.
+  tuyakhov / yii2-json-api Implementation of JSON:API specification for the Yii framework.
+  json-api-php/json-api An attempt to translate the JSON:API specification into a set of high quality unit/functional tests and implement it in PHP 7 strictly following TDD and SOLID OOP principles.
+  cloudcreativity/laravel-json-api JSON:API (jsonapi.org) package for Laravel applications. This project extends cloudcreativity/json-api, adding in framework-specific features.
+  FriendsOfCake/crud-json-api CakePHP Crud Listener for building maintainable JSON:API compliant APIs.
+  thephpleague/fractal A partial implementation of the JSON:API spec allowing for an easy drop in JSON rendering solution.
+  oligus/jad A library that turns doctrine entities into json:api resource, or collection of resources, automagically.
+  enm/json-api-server is an abstract server-side PHP (>= 7.2) implementation of the json:api specification, based on enm/json-api-common. It handles json:api requests via request handlers through a centralized handle-method. It can be used with psr-7-request/response or your own request and response logic.
+  enm/json-api-server-bundle is a symfony bundle which integrates enm/json-api-server into your symfony application (symfony version ^4.0).
+  raml-json-api RAML based JSON:API code generator for Laravel. Generates controllers, middlewares, models, routes, migrations and serves JSON:API.
+  paknahad/jsonapi-bundle is a Symfony bundle. It is the fastest way to generate API.
+  swisnl/json-api-server is a Laravel package to get a JSON:API up and running in minutes.
+  hackerboy/json-api is a lightweight library that helps you to implement JSONAPI easily
+  drupal/jsonapi is a Drupal module that exposes all data managed by Drupal (entities) according to the JSON:API specification. jsonapi_extras is an optional extra module to change resource type names, field names and more. And openapi is another optional module, that is able to generate an OpenAPI/Swagger representation of the API provided by the jsonapi module with a ReDoc-powered UI.
+
+
+ Node.js
+
+  Fortune.js is a library that includes a comprehensive implementation of JSON:API.
+  json-api turns an Express + Mongoose app into a JSON-API server.
+  endpoints is an implementation of JSON:API using Bookshelf.
+  YAYSON is an isomorphic library for serializing and reading JSON:API data. Simply use it with plain objects or extend it to fit your ORM (currently it has an adapter for Sequelize).
+  jsonapi-serializer is a Node.js framework agnostic library for serializing your data to JSON:API.
+  jsonapi-server A feature-rich config-driven json:api framework.
+    
+      jsonapi-store-memoryhandler An in-memory data store for rapid prototyping.
+      jsonapi-store-relationaldb A relational database handler for jsonapi-server.
+      jsonapi-store-mongodb A mongodb handler for jsonapi-server.
+      jsonapi-store-elasticsearch An elasticsearch handler for jsonapi-server.
+    
+  
+  jagql A resource driven framework to set up a {json:api} + GraphQL endpoint in record time.
+    
+      jagql/store-sequelize persist jagql resources to Postgres/MySQL/MSSQL/SQLite
+    
+  
+  loopback-component-jsonapi JSON:API support for loopback highly-extensible, open-source Node.js framework
+  loopback-jsonapi-model-serializer JSON:API serializer for loopback models.
+  jsonapi-mapper JSON:API-Compliant Serialization for your Node ORM.
+  jaysonapi jaysonapi is a framework agnostic JSON:API v1.0.0 serializer. jaysonapi provides more of a functional approach to serializing your data. Define a serializer with a type and schema, and call serialize on it passing in the data, included, meta, errors, etc. as a plain object.
+  json-api-ify serialize the ** out of your data. json:api v1.0 complaint.
+  bookshelf-jsonapi-params automatically apply JSON:API filtering, pagination, sparse fieldsets, includes, and sorting to your Bookshelf.js queries.
+  Lux is a MVC style Node.js framework for building lightning fast JSON:APIs.
+  transformalizer a bare bones node module for transforming raw data into JSON:API compliant payloads that makes no assumption regarding the shape of your data and sdks used, supports the full v1.0 specification, and supports dynamic transformations, links, and meta at all levels of a document.
+  jsonapi-mock A json-server inspired jsonapi mock server. Setup a jsonapi mock server in almost no time, uses lowdb.
+  DenaliJS A layered-conventions framework for building ambitious APIs. Includes a powerful addon system, best-in-class developer experience, and extensive documentation.
+
+
+ Ruby
+
+
+  Plain Ruby
+    
+      Yaks Library for building hypermedia APIs, contains a JSON:API output format.
+      JSONAPI::Serializers provides a pure Ruby, readonly serializer implementation.
+      JSONAPI::Realizer provides a pure Ruby pattern for turning JSON:API requests into models (has active record support and rails instructions)
+      Roar Renders and parses represenations of Ruby objects
+      Jbuilder::JsonAPI Simple & lightweight extension for Jbuilder
+      jsonapi-rb Ruby library for efficiently building and consuming JSON:API documents - with Rails and Hanami integrations.
+      fast_jsonapi A lightning fast JSON:API serializer for Ruby Objects.
+    
+  
+  Ruby on Rails
+    
+      Jsonapi-for-rails
+empowers your JSONAPI compliant Rails APIs. Implement your APIs with very little coding.
+      ActiveModel::Serializers
+is one of the original exemplar implementations, but is slightly out of date at
+the moment.
+      JSONAPI::Resources provides a complete framework for developing a JSON:API server. It is designed to work with Rails, and provides routes, controllers, and serializers.
+      JSONAPI::Utils works on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing a Rails way to build modern APIs with no or less learning curve.
+      Caprese An opinionated Rails library for creating JSON:API servers that lets you focus on customizing the behavior of your endpoints rather than the dirty work of setting them up. Leverages the power of ActiveModel::Serializer.
+      JSONAPI Suite
+facilitates a server capable of deep querying and nested writes. Works
+with any ORM or datastore; comes with integration test helpers and
+automatic swagger documentation.
+    
+  
+  Sinatra
+    
+      Sinja extends Sinatra and leverages JSONAPI::Serializers to enable rapid development of comprehensive, read-and-write, and JSON:API v1.0-compliant web services using the DAL/ORM of your choice. It includes a simple role-based authorization scheme, support for client-generated IDs, patchless clients, and coalesced find requests, exception handling, and more.
+    
+  
+
+
+ Python
+
+
+  Hyp is a library for creating json-api responses.
+  SQLAlchemy-JSONAPI provides JSON:API serialization for SQLAlchemy models.
+  django-rest-framework-json-api provides JSON:API parsing and rendering for the Django REST Framework
+  jsonapi is a Django module with JSON:API implementation.
+  jsoongia is a framework agnostic JSON:API implementation.
+  ripozo provides a framework for serving JSON:API content (among other Hypermedia formats) in Flask, Django and more.
+  marshmallow-jsonapi provides JSON:API data formatting for any Python web framework.
+  neoapi serializes JSON:API–compliant responses from neomodel StructuredNodes for Neo4j data
+  xamoom-janus is a Python module to easily and fast extend Python web frameworks like Flask or BottlyPy with json:api functionality. Also offers a flexible mechanism for data mapping and hooks to intercept and extend its functionality according to your projects needs.
+  pyramid-jsonapi Auto-build a JSON:API from sqlalchemy models using the pyramid framework.
+  Flask-REST-JSONAPI Flask extension to create web api according to jsonapi specification with Flask, Marshmallow and data provider of your choice (SQLAlchemy, MongoDB, …)
+  Flump Database agnostic JSON:API builder which depends on Flask and Marshmallow.
+  SAFRS JSON API Framework Flask-SQLAlchemy jsonapi implementation with auto-generated openapi (fka swagger) interface.
+
+
+ Go
+
+
+  api2go is a full-fledged library to make it simple to provide a JSON:API with your Golang project.
+  jsonapi serializes and deserializes jsonapi formatted payloads using struct tags to annotate the structs that you already have in your Golang project. Godoc
+  go-json-spec-handler drop-in library for handling requests and sending responses in an existing API.
+  jsh-api deals with the dirty work of building JSON:API resource endpoints. Built on top of jsh
+
+
+ .NET
+
+
+  JsonApiNet lets you quickly deserialize JSON:API documents into C# entities. Supports compound documents, complex type mapping from attributes, attribute mapping, and more. See the README for full details.
+  NJsonApi is a .NET server implementation of the standard. It aims at good extensibility and performance while maintaining developer-friendliness with interchangeable conventions and builder-style configuration.
+  Migrap.AspNetCore.Hateoas HATEOAS (Hypermedia as the Engine of Application State) framework for ASP.NET Core. Current implementation(s): Siren, JsonApi.
+  Saule is a small JSON:API 1.0 compatible library that integrates well with established Web API conventions. It has complete documentation and near 100% test coverage.
+  JsonApiDotNetCore is an ASP.Net Core server implementation targeting .Net Standard. Based on the JR implementation, it provides all the required controllers and middleware to get your application up and running with as little boilerplate as possible.
+  Hypermedia.JsonApi.WebApi is a Web API media type formatter for reading and writing JSON:API. It supports an external resource model definition and natively
+includes related resources.
+  JsonApiSerializer is a configurationless JSON:API serialization and deserialization library implemented as a Json.NET JsonSerializerSetting. It leverages the existing power and flexibility of Json.NET while providing a sensible default mapping between JSON:API and CLR objects.
+  JsonApiFramework.Server is a portable .NET Standard/Core server-side framework where developers define the domain model of the resources of a hypermedia API server either through configuration and/or conventions called a service model. With a service model developers can use a document context that represents a session with a JSON:API compound document for reading or writing of various JSON:API abstractions such as resources, resource identifiers, relationships, links, meta information, error objects, and version information all serialized/deserialized as high level CLR objects with automatic generation of JSON:API hypermedia.
+
+
+ Java
+
+
+  crnk.io is a JSON:API framework for clients and servers. It was started as a fork for Katharsis after the later lost development momentum. It has similar concepts but with active development support. On the server-side it comes, among others,
+with a rich set of integrations (Servlet, JAX-RS, Spring, JPA, Bean Validation, Zipkin and more), bulk updates with JSON Patch,  a meta-model for automation purposes, client stub generation for TypeScript and a module API for third-party contributions.
+  Elide is a web framework supporting JSON:API. Through annotation-based JSON:API endpoint generation, Elide enables you to focus on your data model, security model, and business logic while avoiding unnecessary boilerplate. Moreover, through use of the JSON:API Patch extension, Elide provides full support for database transactions.
+
+
+ Scala
+
+  scala-jsonapi A Scala library for producing JSON output (and deserializing JSON input) based on JSON:API specification.
+
+
+ Elixir
+
+
+  ja_serializer is a behaviour and DSL to emit conforming JSON. Suitable for use in a Phoenix view or in a Plug stack.
+  jsonapi is a serializer and query parser built with plain old functions. Can parse and validate a JSONAPI compliant query and serialize Ecto Models or Elixir Structs into conforming JSON. Suitable for use in a Phoenix view, Plug Stack or anywhere you can call functions.
+
+
+ Haskell
+
+
+  json-api functions and datatypes for representing user-defined resources in accordance with the JSON-API specification.
+
+
+ Perl
+
+
+  PONAPI::Server is a Plack-based web server, providing a generic service adhering to the spec. just plug your data-repository & play.
+
+
+ Vala
+
+
+  JSON-API-GLib provides GObjects that can be serialized to and unserialized from payloads with JSON-GLib.
+
+
+ Rust
+
+
+  jsonapi-rust A Rust library for serializing, deserializing and working with JSON-API data
+
+
+ Examples
+
+
+  Endpoints provides a fully working example API
+  Sinja provides a fully-working example API
+
+
+ Related Tools
+
+ Playground
+
+
+  json-api-document-viewer the flat json:api structure is a good way to express complex relationships between objects. However the same flatness makes it difficult for humans to “parse” these relationships. This tool visualises object relationships by visually nesting them.
+  jsonapi-validator is a playground service for quick prototyping and validating JSON responses with jsonapi.org specification.
+  corroborate JSON:API request/response payload validator. It warns when there is a specification violation and also informs when a recommendation has not been followed.
+  JSON API Playground Fake online JSON:API server for testing and prototyping. It’s great for tutorials, faking a server, sharing code examples, etc.
+
+
+ Ruby
+
+
+  json-patch implementation of JSON Patch (rfc6902)
+  hana implementation of the JSON Patch and JSON pointer spec
+
+
+ Node.js
+
+
+  json-patch implementation of JSON Patch (rfc6902)
+
+
+ Python
+
+
+  jsonpatch implementation of JSON Patch (rfc6902)
+  drf-json-patch integrates jsonpatch with Django REST Framework
+
+
+        
+      
+    
+    
+  
+    Built with Jekyll and Highlight.js
+    
+      
+    
+    
+      Twitter
+      GitHub
+      Discussion Forum
+    
+  
 
 
 
-{{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &nbsp;   <s></s>   <sup></sup>   <sub></sub>   <code></code>   <pre></pre>   <blockquote></blockquote>   <ref></ref> <ref name="" />   {{Reflist}}   <references />   <includeonly></includeonly>   <noinclude></noinclude>   {{DEFAULTSORT:}}   <nowiki></nowiki>   <!-- -->   <span class="plainlinks"></span> 
+  
 
-
-
-
-Symbols: ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ∞   ‘ ’ “ ” ‹› «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ № ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   ♭ ♯ ♮   © ® ™
-Latin: A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç   D d Ď ď Đ đ Ḍ ḍ Ð ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ Ɛ ɛ Ǝ ǝ Ə ə   F f   G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ọ ọ Ő ő Ø ø Œ œ   Ɔ ɔ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ   S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß Ð ð Þ þ Ŋ ŋ Ə ə 
-Greek: Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ   Ι ι Κ κ Λ λ Μ μ   Ν ν Ξ ξ Ο ο Π π   Ρ ρ Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω ω   {{Polytonic|}} 
-Cyrillic: А а Б б В в Г г   Ґ ґ Ѓ ѓ Д д Ђ ђ   Е е Ё ё Є є Ж ж   З з Ѕ ѕ И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   Н н Њ њ О о П п   Р р С с Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч Џ џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э э Ю ю Я я   ́ 
-IPA: t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ β θ ð ʃ ʒ ɕ ʑ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ⱱ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ ʍ ɧ   ʼ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ ǁ   ɨ ʉ ɯ   ɪ ʏ ʊ   ø ɘ ɵ ɤ   ə ɚ   ɛ œ ɜ ɝ ɞ ʌ ɔ   æ   ɐ ɶ ɑ ɒ   ʰ ʱ ʷ ʲ ˠ ˤ ⁿ ˡ   ˈ ˌ ː ˑ ̪   {{IPA|}}
-
-
-
-Wikidata entities used in this page
-
-Template:UEFA Cup Winners' Cup winners: Sitelink
-Pages transcluded onto the current version of this page (help) :
-
-Template:Big (view source) (template protected)Template:Collapsible option (view source) (template protected)Template:Country data Belgium (view source) (template protected)Template:Country data Czechoslovakia (view source) (template protected)Template:Country data East Germany (view source) (template protected)Template:Country data England (view source) (template protected)Template:Country data France (view source) (template protected)Template:Country data Germany (view source) (template protected)Template:Country data Italy (view source) (template protected)Template:Country data Netherlands (view source) (template protected)Template:Country data Portugal (view source) (template protected)Template:Country data Scotland (view source) (template protected)Template:Country data Soviet Union (view source) (template protected)Template:Country data Spain (view source) (template protected)Template:Country data West Germany (view source) (template protected)Template:Flagicon (view source) (template protected)Template:Flagicon/core (view source) (template protected)Template:Navbox (view source) (template protected)Template:Para (view source) (template protected)Template:Template other (view source) (protected)Template:Yesno (view source) (protected)Template:Yesno-no (view source) (template protected)Module:Arguments (view source) (protected)Module:Color contrast (view source) (template protected)Module:Color contrast/colors (view source) (template protected)Module:Navbar (view source) (protected)Module:Navbox (view source) (template protected)
-
-					
-						Retrieved from "https://en.wikipedia.org/wiki/Template:UEFA_Cup_Winners%27_Cup_winners"					
-								
-							
-		
-		
-			Navigation menu
-			
-									
-						Personal tools
-						
-							Not logged inTalkContributionsCreate accountLog in						
-					
-									
-										
-						Namespaces
-						
-							TemplateTalk						
-					
-										
-												
-						
-							Variants
-						
-						
-													
-					
-									
-				
-										
-						Views
-						
-							ReadEditView history						
-					
-										
-						
-						More
-						
-													
-					
-										
-						
-							Search
-						
-						
-							
-															
-						
-					
-									
-			
-			
-				
-						
-			Navigation
-			
-								
-					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
-							
-		
-			
-			Interaction
-			
-								
-					HelpAbout WikipediaCommunity portalRecent changesContact page				
-							
-		
-			
-			Tools
-			
-								
-					What links hereRelated changesUpload fileSpecial pagesPage informationWikidata item				
-							
-		
-			
-			Languages
-			
-								
-									
-							
-		
-				
-		
-				
-						
-								Privacy policy
-								About Wikipedia
-								Disclaimers
-								Contact Wikipedia
-								Developers
-								Cookie statement
-								Mobile view
-							
-										
-										
-											
-										
-											
-									
-						
-		
-		
-
-	

@@ -1,7 +1,8 @@
 
+  
+    
 
 
-Editing Template:Bundesliga - Wikipedia
 
 
 
@@ -27,322 +28,511 @@ Editing Template:Bundesliga - Wikipedia
 
 
 
-		
-		
-		
-			
-			
 
-Editing Template:Bundesliga			
-								
-								Jump to navigation
-				Jump to search
-				 Group notice   Page notice 
 
- You are not logged in. Your IP address will be publicly visible if you make any edits. If you log in or create an account, your edits will be attributed to a user name, among other benefits.
 
 
-Content that violates any copyrights will be deleted. Encyclopedic content must be verifiable. Work submitted to Wikipedia can be edited, used, and redistributed—by anyone—subject to certain terms and conditions.
 
 
-Anti-spam check.
-Do not fill this in!
+    
 
+    
+    JSON:API — Examples
+  
 
-{{Navbox
-|name = Bundesliga
-|title = [[Bundesliga]]
-|bodyclass = hlist
+  
+    
+  
+    
+      
+      
+        JSON API
+      
+        Specification
+      
+        Extensions
+      
+        Recommendations
+      
+        Examples
+      
+        Implementations
+      
+        FAQ
+      
+        About
+      
+      
+        v1.0 Stable
+      
+    
+  
 
-| group1 = [[2018–19 Bundesliga|2018–19]] clubs
-| list1 =
-* [[FC Augsburg]]
-* [[Hertha BSC]]
-* [[SV Werder Bremen|Werder Bremen]]
-* [[Borussia Dortmund]]
-* [[Fortuna Düsseldorf]]
-* [[Eintracht Frankfurt]]
-* [[SC Freiburg]]
-* [[Hannover 96]]
-* [[TSG 1899 Hoffenheim|1899 Hoffenheim]]
-* [[RB Leipzig]]
-* [[Bayer 04 Leverkusen|Bayer Leverkusen]]
-* [[1. FSV Mainz 05|Mainz 05]]
-* [[Borussia Mönchengladbach]]
-* [[FC Bayern Munich|Bayern Munich]]
-* [[1. FC Nürnberg]]
-* [[FC Schalke 04|Schalke 04]]
-* [[VfB Stuttgart]]
-* [[VfL Wolfsburg]]
-
-| group2 = Former clubs
-| list2 =
-* [[TSV 1860 Munich]]
-* [[Alemannia Aachen]]
-* [[Arminia Bielefeld]]
-* [[KFC Uerdingen 05|Bayer 05 Uerdingen/KFC Uerdingen 05]]
-* [[Blau-Weiß 1890 Berlin|Blau-Weiß 90 Berlin]]
-* [[VfL Bochum]]
-* [[Borussia Neunkirchen]]
-* [[Dynamo Dresden]]
-* [[Eintracht Braunschweig]]
-* [[FC Energie Cottbus|Energie Cottbus]]
-* [[SV Darmstadt 98|Darmstadt 98]]
-* [[SC Fortuna Köln|Fortuna Köln]]
-* [[SpVgg Greuther Fürth]]
-* [[Hamburger SV]]
-* [[F.C. Hansa Rostock|Hansa Rostock]]
-* [[FC 08 Homburg]]
-* [[FC Ingolstadt 04|FC Ingolstadt]]
-* [[1. FC Kaiserslautern]]
-* [[Karlsruher SC]]
-* [[Kickers Offenbach]]
-* [[1. FC Köln]]
-* [[1. FC Lokomotive Leipzig|VfB Leipzig]]
-* [[MSV Duisburg|Meidericher SV/MSV Duisburg]]
-* [[SC Preußen Münster|Preußen Münster]]
-* [[Rot-Weiss Essen]]
-* [[Rot-Weiß Oberhausen]]
-* [[1. FC Saarbrücken]]
-* [[SC Paderborn 07]]
-* [[FC St. Pauli]]
-* [[Stuttgarter Kickers]]
-* [[SC Tasmania 1900 Berlin|Tasmania Berlin]]
-* [[Tennis Borussia Berlin]]
-* [[SSV Ulm 1846]]
-* [[SpVgg Unterhaching]]
-* [[SV Waldhof Mannheim|Waldhof Mannheim]]
-* [[SG Wattenscheid 09|Wattenscheid 09]]
-* [[Wuppertaler SV]]
-
-|group3 = History
-|list3 =
-* [[Reichsliga]]
-* [[Introduction of the Bundesliga|Introduction in 1963]]
-* [[Bundesliga scandal (1965)|1965 scandal]]
-* [[Bundesliga scandal (1971)|1971 scandal]]
-* [[Bundesliga scandal (2005)|2005 scandal]]
-* [[Promotion to the Bundesliga|Promotion]]
-
-|group4 = Lists and statistics 
-|list4 =
-* [[All-time Bundesliga table|All-time table]]
-* [[List of German football champions|Champions]]
-* [[List of clubs in the Bundesliga|List of clubs]]
-* [[Bundesliga records|Records]]
-** [[Borussia Mönchengladbach 12–0 Borussia Dortmund]]
-* [[List of foreign Bundesliga players|Foreign players]]
-* [[List of Bundesliga top scorers|Top scorers]]
-* [[Bundesliga attendance|Attendance]]
-
-|group5 = Seasons
-|list5 =
-* [[1963–64 Bundesliga|1963–64]]
-* [[1964–65 Bundesliga|1964–65]]
-* [[1965–66 Bundesliga|1965–66]]
-* [[1966–67 Bundesliga|1966–67]]
-* [[1967–68 Bundesliga|1967–68]]
-* [[1968–69 Bundesliga|1968–69]]
-* [[1969–70 Bundesliga|1969–70]]
-* [[1970–71 Bundesliga|1970–71]]
-* [[1971–72 Bundesliga|1971–72]]
-* [[1972–73 Bundesliga|1972–73]]
-* [[1973–74 Bundesliga|1973–74]]
-* [[1974–75 Bundesliga|1974–75]]
-* [[1975–76 Bundesliga|1975–76]]
-* [[1976–77 Bundesliga|1976–77]]
-* [[1977–78 Bundesliga|1977–78]]
-* [[1978–79 Bundesliga|1978–79]]
-* [[1979–80 Bundesliga|1979–80]]
-* [[1980–81 Bundesliga|1980–81]]
-* [[1981–82 Bundesliga|1981–82]]
-* [[1982–83 Bundesliga|1982–83]]
-* [[1983–84 Bundesliga|1983–84]]
-* [[1984–85 Bundesliga|1984–85]]
-* [[1985–86 Bundesliga|1985–86]]
-* [[1986–87 Bundesliga|1986–87]]
-* [[1987–88 Bundesliga|1987–88]]
-* [[1988–89 Bundesliga|1988–89]]
-* [[1989–90 Bundesliga|1989–90]]
-* [[1990–91 Bundesliga|1990–91]]
-* [[1991–92 Bundesliga|1991–92]]
-* [[1992–93 Bundesliga|1992–93]]
-* [[1993–94 Bundesliga|1993–94]]
-* [[1994–95 Bundesliga|1994–95]]
-* [[1995–96 Bundesliga|1995–96]]
-* [[1996–97 Bundesliga|1996–97]]
-* [[1997–98 Bundesliga|1997–98]]
-* [[1998–99 Bundesliga|1998–99]]
-* [[1999–2000 Bundesliga|1999–2000]]
-* [[2000–01 Bundesliga|2000–01]]
-* [[2001–02 Bundesliga|2001–02]]
-* [[2002–03 Bundesliga|2002–03]]
-* [[2003–04 Bundesliga|2003–04]]
-* [[2004–05 Bundesliga|2004–05]]
-* [[2005–06 Bundesliga|2005–06]]
-* [[2006–07 Bundesliga|2006–07]]
-* [[2007–08 Bundesliga|2007–08]]
-* [[2008–09 Bundesliga|2008–09]]
-* [[2009–10 Bundesliga|2009–10]]
-* [[2010–11 Bundesliga|2010–11]]
-* [[2011–12 Bundesliga|2011–12]]
-* [[2012–13 Bundesliga|2012–13]]
-* [[2013–14 Bundesliga|2013–14]]
-* [[2014–15 Bundesliga|2014–15]]
-* [[2015–16 Bundesliga|2015–16]]
-* [[2016–17 Bundesliga|2016–17]]
-* [[2017–18 Bundesliga|2017–18]]
-* [[2018–19 Bundesliga|2018–19]]
-
-|below =
-* {{icon|category}} [[:Category:Bundesliga|Category]]
-** [[:Category:Bundesliga managers|Managers]]
-** [[:Category:Bundesliga players|Players]]
-}}<noinclude>
-[[Category:Bundesliga navigational boxes]]
-</noinclude>
-
-Edit summary (Briefly describe your changes)
-
-By publishing changes, you agree to the Terms of Use, and you irrevocably agree to release your contribution under the CC BY-SA 3.0 License and the GFDL. You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.
-
-
-
-
-
-	Cancel
-	Editing help (opens in new window)
-
-Preview page with this template (what's this?)
-
-
-
-
-Copy and paste: – — ° ′ ″ ≈ ≠ ≤ ≥ ± − × ÷ ← → · §   Sign your posts on talk pages: ~~~~   Cite your sources: <ref></ref> 
-
-
-
-{{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &nbsp;   <s></s>   <sup></sup>   <sub></sub>   <code></code>   <pre></pre>   <blockquote></blockquote>   <ref></ref> <ref name="" />   {{Reflist}}   <references />   <includeonly></includeonly>   <noinclude></noinclude>   {{DEFAULTSORT:}}   <nowiki></nowiki>   <!-- -->   <span class="plainlinks"></span> 
-
-
-
-
-Symbols: ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ∞   ‘ ’ “ ” ‹› «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ № ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   ♭ ♯ ♮   © ® ™
-Latin: A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç   D d Ď ď Đ đ Ḍ ḍ Ð ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ Ɛ ɛ Ǝ ǝ Ə ə   F f   G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ọ ọ Ő ő Ø ø Œ œ   Ɔ ɔ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ   S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß Ð ð Þ þ Ŋ ŋ Ə ə 
-Greek: Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ   Ι ι Κ κ Λ λ Μ μ   Ν ν Ξ ξ Ο ο Π π   Ρ ρ Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω ω   {{Polytonic|}} 
-Cyrillic: А а Б б В в Г г   Ґ ґ Ѓ ѓ Д д Ђ ђ   Е е Ё ё Є є Ж ж   З з Ѕ ѕ И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   Н н Њ њ О о П п   Р р С с Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч Џ џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э э Ю ю Я я   ́ 
-IPA: t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ β θ ð ʃ ʒ ɕ ʑ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ⱱ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ ʍ ɧ   ʼ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ ǁ   ɨ ʉ ɯ   ɪ ʏ ʊ   ø ɘ ɵ ɤ   ə ɚ   ɛ œ ɜ ɝ ɞ ʌ ɔ   æ   ɐ ɶ ɑ ɒ   ʰ ʱ ʷ ʲ ˠ ˤ ⁿ ˡ   ˈ ˌ ː ˑ ̪   {{IPA|}}
-
-
-
-Wikidata entities used in this page
-
-Template:German Bundesliga clubs: Sitelink
-Pages transcluded onto the current version of this page (help) :
-
-Template:Icon (view source) (template protected)Template:Navbox (view source) (template protected)Module:Arguments (view source) (protected)Module:Color contrast (view source) (template protected)Module:Color contrast/colors (view source) (template protected)Module:Icon (view source) (template protected)Module:Icon/data (view source) (template protected)Module:Navbar (view source) (protected)Module:Navbox (view source) (template protected)
-
-					
-						Retrieved from "https://en.wikipedia.org/wiki/Template:Bundesliga"					
-								
-							
-		
-		
-			Navigation menu
-			
-									
-						Personal tools
-						
-							Not logged inTalkContributionsCreate accountLog in						
-					
-									
-										
-						Namespaces
-						
-							TemplateTalk						
-					
-										
-												
-						
-							Variants
-						
-						
-													
-					
-									
-				
-										
-						Views
-						
-							ReadEditView history						
-					
-										
-						
-						More
-						
-													
-					
-										
-						
-							Search
-						
-						
-							
-															
-						
-					
-									
-			
-			
-				
-						
-			Navigation
-			
-								
-					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
-							
-		
-			
-			Interaction
-			
-								
-					HelpAbout WikipediaCommunity portalRecent changesContact page				
-							
-		
-			
-			Tools
-			
-								
-					What links hereRelated changesUpload fileSpecial pagesPage informationWikidata item				
-							
-		
-			
-			Languages
-			
-								
-									
-							
-		
-				
-		
-				
-						
-								Privacy policy
-								About Wikipedia
-								Disclaimers
-								Contact Wikipedia
-								Developers
-								Cookie statement
-								Mobile view
-							
-										
-										
-											
-										
-											
-									
-						
-		
-		
-
-	
+
+    
+    
+      
+        
+          
+            
+            
+              Examples
+            
+          
+        
+      
+      
+        
+          
+            Examples
+          
+        
+        
+          
+          This page contains additional examples of how to apply various parts of the specification.
+
+ Sparse Fieldsets
+
+Examples of how sparse fieldsets work.
+
+Basic request:
+
+GET /articles?include=author HTTP/1.1
+
+
+HTTP/1.1 200 OK
+Content-Type: application/vnd.api+json
+
+{
+  "data": [{
+    "type": "articles",
+    "id": "1",
+    "attributes": {
+      "title": "JSON:API paints my bikeshed!",
+      "body": "The shortest article. Ever.",
+      "created": "2015-05-22T14:56:29.000Z",
+      "updated": "2015-05-22T14:56:28.000Z"
+    },
+    "relationships": {
+      "author": {
+        "data": {"id": "42", "type": "people"}
+      }
+    }
+  }],
+  "included": [
+    {
+      "type": "people",
+      "id": "42",
+      "attributes": {
+        "name": "John",
+        "age": 80,
+        "gender": "male"
+      }
+    }
+  ]
+}
+
+
+Request with fields[articles] and fields[people] parameters:
+
+GET /articles?include=author&fields[articles]=title,body,author&fields[people]=name HTTP/1.1
+
+
+
+  Note: The above example URI shows unencoded [ and ] characters simply
+for readability. In practice, these characters should be percent-encoded, as
+noted in the base specification. See “Square Brackets in Parameter Names”.
+
+
+Here we want articles objects to have fields title, body and author only and people objects to have name field only.
+
+HTTP/1.1 200 OK
+Content-Type: application/vnd.api+json
+
+{
+  "data": [{
+    "type": "articles",
+    "id": "1",
+    "attributes": {
+      "title": "JSON:API paints my bikeshed!",
+      "body": "The shortest article. Ever."
+    },
+    "relationships": {
+      "author": {
+        "data": {"id": "42", "type": "people"}
+      }
+    }
+  }],
+  "included": [
+    {
+      "type": "people",
+      "id": "42",
+      "attributes": {
+        "name": "John"
+      }
+    }
+  ]
+}
+
+
+Pay attention to the fact that you have to add a relationship name both in include and fields (since relationships are fields too), otherwise you’ll get:
+
+GET /articles?include=author&fields[articles]=title,body&fields[people]=name HTTP/1.1
+
+
+HTTP/1.1 200 OK
+Content-Type: application/vnd.api+json
+
+{
+  "data": [{
+    "type": "articles",
+    "id": "1",
+    "attributes": {
+      "title": "JSON:API paints my bikeshed!",
+      "body": "The shortest article. Ever."
+    }
+  }],
+  "included": [
+    {
+      "type": "people",
+      "id": "42",
+      "attributes": {
+        "name": "John"
+      }
+    }
+  ]
+}
+
+
+
+  Note: The above example URI shows unencoded [ and ] characters simply
+for readability. In practice, these characters should be percent-encoded, as
+noted in the base specification. See “Square Brackets in Parameter Names”.
+
+
+ Pagination Links
+
+Example of a page-based strategy on how to add pagination links.
+
+Basic request:
+
+GET /articles?page[number]=3&page[size]=1 HTTP/1.1
+
+
+HTTP/1.1 200 OK
+Content-Type: application/vnd.api+json
+
+{
+  "meta": {
+    "totalPages": 13
+  },
+  "data": [
+    {
+      "type": "articles",
+      "id": "3",
+      "attributes": {
+        "title": "JSON:API paints my bikeshed!",
+        "body": "The shortest article. Ever.",
+        "created": "2015-05-22T14:56:29.000Z",
+        "updated": "2015-05-22T14:56:28.000Z"
+      }
+    }
+  ],
+  "links": {
+    "self": "http://example.com/articles?page[number]=3&page[size]=1",
+    "first": "http://example.com/articles?page[number]=1&page[size]=1",
+    "prev": "http://example.com/articles?page[number]=2&page[size]=1",
+    "next": "http://example.com/articles?page[number]=4&page[size]=1",
+    "last": "http://example.com/articles?page[number]=13&page[size]=1"
+  }
+}
+
+
+
+  Note: The above example URIs show unencoded [ and ] characters simply
+for readability. In practice, these characters should be percent-encoded, as
+noted in the base specification. See “Square Brackets in Parameter Names”.
+
+
+
+  Note: Putting a property like "totalPages" in "meta" can be a convenient way
+to indicate to clients the total number of pages in a collection (as opposed to
+the "last" link, which simply gives the URI of the last page). However, all
+"meta" values are implementation-specific, so you can call this member whatever
+you like ("total", "count", etc.) or not use it at all.
+
+
+ Error Objects
+
+Examples of how error objects work.
+
+ A Basic Error Object
+
+In the response below, the server is indicating that it encountered an error
+while creating/updating the resource, and that this error was caused
+by an invalid "firstName" attribute:
+
+HTTP/1.1 422 Unprocessable Entity
+Content-Type: application/vnd.api+json
+
+{
+  "errors": [
+    {
+      "status": "422",
+      "source": { "pointer": "/data/attributes/firstName" },
+      "title":  "Invalid Attribute",
+      "detail": "First name must contain at least three characters."
+    }
+  ]
+}
+
+
+Every member in an error object is optional, but all help the client
+by providing extra details.
+
+The source member is used to indicate
+which part of the request document caused the error.
+
+The title and detail members are similar, but detail is specific
+to this occurrence of the problem, whereas title is more generic.
+
+The status member represents the HTTP status code associated with the problem.
+It’s very helpful when multiple errors are returned at once (see below), as the
+HTTP response itself can only have one status code. However, it can also be
+useful for single errors, to save clients the trouble of consulting the HTTP
+headers, or for using JSON:API over non-HTTP protocols, which may be officially
+supported in the near future.
+
+ Multiple Errors
+
+When multiple errors occur in response to a single request, the server
+can simply add each error to the errors array:
+
+HTTP/1.1 400 Bad Request
+Content-Type: application/vnd.api+json
+
+{
+  "errors": [
+    {
+      "status": "403",
+      "source": { "pointer": "/data/attributes/secretPowers" },
+      "detail": "Editing secret powers is not authorized on Sundays."
+    },
+    {
+      "status": "422",
+      "source": { "pointer": "/data/attributes/volume" },
+      "detail": "Volume does not, in fact, go to 11."
+    },
+    {
+      "status": "500",
+      "source": { "pointer": "/data/attributes/reputation" },
+      "title": "The backend responded with an error",
+      "detail": "Reputation service not responding after three requests."
+    }
+  ]
+}
+
+
+The only uniqueness constraint on error objects is the id field. Thus,
+multiple errors on the same attribute can each be given their own error
+object. The example below shows multiple errors on the "firstName" attribute:
+
+HTTP/1.1 422 Unprocessable Entity
+Content-Type: application/vnd.api+json
+
+{
+  "errors": [
+    {
+      "source": { "pointer": "/data/attributes/firstName" },
+      "title": "Invalid Attribute",
+      "detail": "First name must contain at least three characters."
+    },
+    {
+      "source": { "pointer": "/data/attributes/firstName" },
+      "title": "Invalid Attribute",
+      "detail": "First name must contain an emoji."
+    }
+  ]
+}
+
+
+
+  Note: in the responses above with a 422 status code, 400 Bad Request would
+also be acceptable. (More details.)
+JSON:API doesn’t take a position on 400 vs. 422.
+
+
+ Error Codes
+
+The code member of an error object contains an application-specific code
+representing the type of problem encountered. code is similar to title
+in that both identify a general type of problem (unlike detail, which is
+specific to the particular instance of the problem), but dealing with code
+is easier programatically, because the “same” title may appear in different
+forms due to localization.
+
+For the example below, imagine the API docs specifed the following mapping:
+
+
+  
+    
+      Code
+      Problem
+    
+  
+  
+    
+      123
+      Value too short
+    
+    
+      225
+      Password lacks a letter, number, or punctuation character
+    
+    
+      226
+      Passwords do not match
+    
+    
+      227
+      Password cannot be one of last five passwords
+    
+  
+
+
+Multiple errors on "password" attribute, with error code:
+
+HTTP/1.1 422 Unprocessable Entity
+Content-Type: application/vnd.api+json
+
+{
+  "jsonapi": { "version": "1.0" },
+  "errors": [
+    {
+      "code":   "123",
+      "source": { "pointer": "/data/attributes/firstName" },
+      "title":  "Value is too short",
+      "detail": "First name must contain at least three characters."
+    },
+    {
+      "code":   "225",
+      "source": { "pointer": "/data/attributes/password" },
+      "title": "Passwords must contain a letter, number, and punctuation character.",
+      "detail": "The password provided is missing a punctuation character."
+    },
+    {
+      "code":   "226",
+      "source": { "pointer": "/data/attributes/password" },
+      "title": "Password and password confirmation do not match."
+    }
+  ]
+}
+
+
+Notice that this response includes not only the errors top-level member,
+but the jsonapi top-level member. Error responses may not contain the
+top-level data member, but can include all the other top-level members
+JSON:API defines.
+
+Also, notice that the third error object lacks a detail member (perhaps
+for security). Again, all error object members are optional.
+
+ Advanced source Usage
+
+In the example below, the user is sending an invalid JSON:API
+request, because it’s missing the data member:
+
+PATCH /posts/1 HTTP/1.1
+Content-Type: application/vnd.api+json
+Accept: application/vnd.api+json
+
+{ "datum": [ ] }
+
+
+Therefore, the server responds:
+
+HTTP/1.1 422 Unprocesssable Entity
+Content-Type: application/vnd.api+json
+
+{
+  "errors": [
+    {
+      "source": { "pointer": "" },
+      "detail":  "Missing `data` Member at document's top level."
+    }
+  ]
+}
+
+
+It uses source to point to the top-level of the document ("").
+(Pointing to “/” would be an appropriate reference to the string
+"some value" in the request document {"": "some value"}.
+Pointing to "/data" would be invalid because the request document did
+not have a value at "/data", and source is always given with reference
+to the request document.)
+
+If the server cannot parse the request as valid JSON, including
+source doesn’t make sense (because there’s no JSON document for source to
+refer to). Here’s how the server might respond to an invalid JSON document:
+
+{
+  "errors": [{
+    "status": "400",
+    "detail": "JSON parse error - Expecting property name at line 1 column 2 (char 1)."
+  }]
+}
+
+
+ Invalid Query Parameters
+
+The source member can also be used to indicate that the error originated
+from a problem with a URI query parameter, like so:
+
+GET /api/posts/1?include=author HTTP/1.1
+
+
+HTTP/1.1 400 Bad Request
+Content-Type: application/vnd.api+json
+
+{
+  "errors": [
+    {
+      "source": { "parameter": "include" },
+      "title":  "Invalid Query Parameter",
+      "detail": "The resource does not have an `author` relationship path."
+    }
+  ]
+}
+
+
+In most cases, JSON:API requires the server to return an error when it encounters
+an invalid value for a JSON:API–defined query parameter. However, for API-specific
+query parameters (i.e. those not defined by JSON:API), a server may choose to
+ignore an invalid parameter and have the request succeed, rather than respond with
+an error. API-specific query parameters must contain one non a-z
+character.
+
+Other examples of invalid parameters include: ?felds[people]= (invalid parameter name; 
+should be fields[people]) and ?redirect_to=http%3A%2F%2Fwww.owasp.org (invalid parameter, 
+in this case, a phishing attack), etc.
+
+        
+      
+    
+    
+  
+    Built with Jekyll and Highlight.js
+    
+      
+    
+    
+      Twitter
+      GitHub
+      Discussion Forum
+    
+  
+
+
+
+  
+

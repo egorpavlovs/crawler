@@ -1,9 +1,6 @@
 
-
-
-Review log - Wikipedia
-
-
+  
+    
 
 
 
@@ -24,173 +21,153 @@ Review log - Wikipedia
 
 
 
-		
-		
-		
-			
-			
-Help
 
-Review log			
-								
-								Jump to navigation
-				Jump to search
-				This is a log of changes to the review status for pages under pending changes.
-LogsAll public logsBlock logContent model change logDeletion logDeletion tag logEdit Filter modification logGlobal account logGlobal block logGlobal rename logGlobal rights logImport logMass message logMerge logMove logPage creation logPage curation logPatrol logPending changes logPotential copyright violation logProtection logReview logTag logTag management logThanks logTimedMediaHandler logUpload logUser creation logUser merge logUser rename logUser rights logPerformer:Target (title or User:username for user):From date (and earlier):Tag filter:Type of review:AllManual acceptAutomatic acceptManual unaccept
-Show
-(newest | oldest) View (newer 50 |  older 50) (20 | 50 | 100 | 250 | 500)
- 06:18, 15 February 2019 Oshwah (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 06:18, 15 February 2019) 
- 16:56, 14 February 2019 S.A. Julio (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 16:56, 14 February 2019) 
- 22:49, 13 February 2019 DerDFB (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 22:49, 13 February 2019) 
- 21:36, 13 February 2019 Wham2001 (talk | contribs) reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 21:36, 13 February 2019) 
- 14:50, 13 February 2019 S.A. Julio (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 14:50, 13 February 2019) 
- 13:00, 13 February 2019 Felida97 (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 13:00, 13 February 2019) 
- 22:36, 12 February 2019 Walter Görlitz (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 22:36, 12 February 2019) 
- 12:44, 12 February 2019 S.A. Julio (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 12:44, 12 February 2019) 
- 11:14, 12 February 2019 Xiangtianyu (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 11:14, 12 February 2019) 
- 15:52, 11 February 2019 S.A. Julio (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 15:52, 11 February 2019) 
- 14:47, 10 February 2019 Jaellee (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 14:47, 10 February 2019) 
- 11:48, 10 February 2019 Jaellee (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 11:48, 10 February 2019) 
- 11:48, 10 February 2019 Jaellee (talk | contribs) deprecated a version of FC Bayern Munich (reverted factual error) (changes deprecated) (revision: 11:45, 10 February 2019) 
- 11:45, 10 February 2019 Erico67 (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 11:45, 10 February 2019) 
- 11:42, 10 February 2019 Erico67 (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 11:42, 10 February 2019) 
- 09:56, 10 February 2019 OdinFK (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 09:55, 10 February 2019) 
- 17:25, 9 February 2019 Jaywubba1887 (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 17:25, 9 February 2019) 
- 17:24, 9 February 2019 Jaywubba1887 (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 17:24, 9 February 2019) 
- 10:32, 9 February 2019 OdinFK (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 10:32, 9 February 2019) 
- 08:12, 9 February 2019 Footwiks (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 08:12, 9 February 2019) 
- 10:52, 8 February 2019 S.A. Julio (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 10:52, 8 February 2019) 
- 14:15, 7 February 2019 S.A. Julio (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 14:14, 7 February 2019) 
- 11:02, 5 February 2019 Footwiks (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 11:02, 5 February 2019) 
- 10:58, 5 February 2019 Footwiks (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 10:58, 5 February 2019) 
- 03:25, 5 February 2019 Daiyusha (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 03:25, 5 February 2019) 
- 06:51, 4 February 2019 Walter Görlitz (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 06:51, 4 February 2019) 
- 06:45, 4 February 2019 Footwiks (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 06:45, 4 February 2019) 
- 06:43, 4 February 2019 Footwiks (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 06:43, 4 February 2019) 
- 06:41, 4 February 2019 Footwiks (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 06:41, 4 February 2019) 
- 02:06, 4 February 2019 Walter Görlitz (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 02:05, 4 February 2019) 
- 02:00, 4 February 2019 AlejandroR1990 (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 02:00, 4 February 2019) 
- 00:19, 4 February 2019 Walter Görlitz (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 00:19, 4 February 2019) 
- 23:51, 3 February 2019 EggOfReason (talk | contribs) reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 23:49, 3 February 2019) 
- 16:16, 3 February 2019 Footwiks (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 16:16, 3 February 2019) 
- 16:15, 3 February 2019 Footwiks (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 16:15, 3 February 2019) 
- 16:14, 3 February 2019 Footwiks (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 16:14, 3 February 2019) 
- 16:14, 3 February 2019 Footwiks (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 16:14, 3 February 2019) 
- 13:45, 3 February 2019 XLinkBot (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 13:45, 3 February 2019) 
- 08:23, 3 February 2019 Walter Görlitz (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 08:23, 3 February 2019) 
- 07:00, 3 February 2019 CoolSkittle (talk | contribs) reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 01:13, 3 February 2019) 
- 20:06, 2 February 2019 Souravdas1998 (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 20:06, 2 February 2019) 
- 19:49, 2 February 2019 Walter Görlitz (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 19:48, 2 February 2019) 
- 19:44, 2 February 2019 Souravdas1998 (talk | contribs) reviewed a version of FC Bayern Munich   (revision: 19:42, 2 February 2019) 
- 19:44, 2 February 2019 Koldcuts (talk | contribs) reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 19:44, 2 February 2019) 
- 19:42, 2 February 2019 Souravdas1998 (talk | contribs) reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 19:41, 2 February 2019) 
- 11:28, 2 February 2019 Jaellee (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 11:28, 2 February 2019) 
- 10:06, 30 January 2019 OdinFK (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 10:06, 30 January 2019) 
- 06:41, 28 January 2019 S.A. Julio (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 06:41, 28 January 2019) 
- 04:00, 28 January 2019 Rizky88 (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 04:00, 28 January 2019) 
- 18:22, 18 January 2019 Walter Görlitz (talk | contribs) automatically reviewed a version of FC Bayern Munich  (changes reviewed) (revision: 18:22, 18 January 2019) 
 
-(newest | oldest) View (newer 50 |  older 50) (20 | 50 | 100 | 250 | 500)					
-						Retrieved from "https://en.wikipedia.org/wiki/Special:Log"					
-								
-							
-		
-		
-			Navigation menu
-			
-									
-						Personal tools
-						
-							Not logged inTalkContributionsCreate accountLog in						
-					
-									
-										
-						Namespaces
-						
-							Special page						
-					
-										
-												
-						
-							Variants
-						
-						
-													
-					
-									
-				
-										
-						Views
-						
-													
-					
-										
-						
-						More
-						
-													
-					
-										
-						
-							Search
-						
-						
-							
-															
-						
-					
-									
-			
-			
-				
-						
-			Navigation
-			
-								
-					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
-							
-		
-			
-			Interaction
-			
-								
-					HelpAbout WikipediaCommunity portalRecent changesContact page				
-							
-		
-			
-			Tools
-			
-								
-					Upload fileSpecial pagesPrintable version				
-							
-		
-			
-			Languages
-			
-								
-									
-							
-		
-				
-		
-				
-						
-								Privacy policy
-								About Wikipedia
-								Disclaimers
-								Contact Wikipedia
-								Developers
-								Cookie statement
-								Mobile view
-							
-										
-										
-											
-										
-											
-									
-						
-		
-		
 
-	
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    JSON:API — About
+  
+
+  
+    
+  
+    
+      
+      
+        JSON API
+      
+        Specification
+      
+        Extensions
+      
+        Recommendations
+      
+        Examples
+      
+        Implementations
+      
+        FAQ
+      
+        About
+      
+      
+        v1.0 Stable
+      
+    
+  
+
+
+    
+    
+      
+      
+        
+          
+            About
+          
+        
+        
+          
+           Channels
+
+JSON:API is:
+
+
+  @jsonapi on
+Twitter
+  #jsonapi channel on Freenode IRC
+  jsonapi discussion forum
+
+
+ Editors
+
+There are five primary editors of this specification:
+
+
+  Steve Klabnik
+  Yehuda Katz
+  Dan Gebhardt
+  Tyler Kellen
+  Ethan Resnick
+
+
+ Roadmap
+
+ 1.1
+
+
+  Embedding / creating multiple related resources in a single request
+  Extension support
+
+
+ History
+
+JSON:API was originally drafted by Yehuda Katz
+in May 2013. This first draft was extracted from the JSON transport
+implicitly defined by Ember Data’s REST adapter.
+
+In general, Ember Data’s goal is to eliminate the need for ad-hoc code
+per application to communicate with servers that communicate in a
+well-defined way.
+
+Some servers, like Firebase, Parse and CouchDB already define strict
+communication protocols for clients, and were good fits for Ember Data.
+In contrast, servers written in Rails, Node, and Django tend to be
+written in a “REST-style” but lack the precision necessary for drop-in
+client code.
+
+The REST Adapter in Ember Data implicitly defined a protocol that
+custom servers could implement to get a drop-in client for all of their
+resources. ActiveModel::Serializers is a proof-of-concept library
+for Rails that implemented the serialization format expected by Ember
+Data.
+
+Record creation, update, and deletion was defined implicitly by the
+Ember Data library and was close to conventions already in wide use by
+Rails, Django and Node developers.
+
+The goals of the media type are to balance:
+
+
+  A generic media type that can work across a broad set of use cases,
+including the generally used relationship types
+  Similarity to existing server-side framework practices (and human
+readability for debugging)
+  Ease of implementation on the server side
+  Ease of implementation on the client side
+
+
+This specification reached a stable version 1.0 on May 29, 2015.
+
+        
+      
+    
+    
+  
+    Built with Jekyll and Highlight.js
+    
+      
+    
+    
+      Twitter
+      GitHub
+      Discussion Forum
+    
+  
+
+
+
+  
+

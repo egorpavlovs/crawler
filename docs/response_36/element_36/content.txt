@@ -1,0 +1,468 @@
+
+  
+    
+    Uncategorized - JSON API
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+    
+
+      
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+      
+      
+
+    
+    
+    
+
+
+      
+
+
+  
+
+
+        
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+  
+
+  
+    
+    
+      
+  
+    
+      
+        
+          
+            
+                
+            
+          
+        
+      
+    
+  
+
+      
+        
+        
+
+
+
+  
+
+    
+      Uncategorized
+  
+  
+
+
+
+  
+    
+      
+      
+      
+        Welcome to the JSON API discussion forum
+      
+      
+      (3)
+
+    
+    
+      
+      
+      
+        Help me! About Json Datatable
+      
+      
+      (1)
+
+    
+    
+      
+      
+      
+        Creating join table relationship, with attributes
+      
+      
+      (3)
+
+    
+    
+      
+      
+      
+        How to model availability of PATCH/DELETE
+      
+      
+      (2)
+
+    
+    
+      
+      
+      
+        Content type of links
+      
+      
+      (1)
+
+    
+    
+      
+      
+      
+        Should PATCH without any recognized fields return error?
+      
+      
+      (1)
+
+    
+    
+      
+      
+      
+        What's the JSON API-way to copy folders?
+      
+      
+      (1)
+
+    
+    
+      
+      
+      
+        Read-only fields in request body - ignore vs. 400
+      
+      
+      (2)
+
+    
+    
+      
+      
+      
+        Should top-level self links include query params?
+      
+      
+      (1)
+
+    
+    
+      
+      
+      
+        HATEOAS and JSON API
+      
+      
+      (3)
+
+    
+    
+      
+      
+      
+        Create resource and assign relationship
+      
+      
+      (2)
+
+    
+    
+      
+      
+      
+        Username and Password in Json Home Automation
+      
+      
+      (1)
+
+    
+    
+      
+      
+      
+        How to represent possible related objects
+      
+      
+      (4)
+
+    
+    
+      
+      
+      
+        Share/Propose a Filtering Strategy
+      
+      ( 2 )
+      (23)
+
+    
+    
+      
+      
+      
+        Response with errors, also include missing profile errors?
+      
+      
+      (2)
+
+    
+    
+      
+      
+      
+        Extract specific data
+      
+      
+      (2)
+
+    
+    
+      
+      
+      
+        Same resources with different attributes in different objects
+      
+      
+      (12)
+
+    
+    
+      
+      
+      
+        Member Name Regex
+      
+      
+      (2)
+
+    
+    
+      
+      
+      
+        Resource Status
+      
+      
+      (12)
+
+    
+    
+      
+      
+      
+        Proposal: Let's use "JPI" as the acronym to refer to JSON:API
+      
+      
+      (2)
+
+    
+    
+      
+      
+      
+        Using swagger with jsonapi definitions?
+      
+      
+      (11)
+
+    
+    
+      
+      
+      
+        Error action link
+      
+      
+      (5)
+
+    
+    
+      
+      
+      
+        'Commercial at' mentioned as reserved
+      
+      
+      (2)
+
+    
+    
+      
+      
+      
+        Sparse fields with 'Views'
+      
+      
+      (2)
+
+    
+    
+      
+      
+      
+        How to deal best with relationship in contained list item
+      
+      
+      (5)
+
+    
+    
+      
+      
+      
+        Accepting a resource update for processing while changing other attributes not mentionned in the original request
+      
+      
+      (3)
+
+    
+    
+      
+      
+      
+        Relationship with thousands of records
+      
+      
+      (3)
+
+    
+    
+      
+      
+      
+        Need help with naming
+      
+      
+      (3)
+
+    
+    
+      
+      
+      
+        Content-Type: application/vnd.api+json - Safari Issue
+      
+      
+      (6)
+
+    
+    
+      
+      
+      
+        Relation Link Usage
+      
+      
+      (6)
+
+    
+
+
+  
+    next page →
+  
+
+
+ 
+
+
+
+  
+
+        
+        
+          
+            Home
+            Categories
+            FAQ/Guidelines
+            Terms of Service
+            Privacy Policy
+          
+        
+      
+
+      
+        Powered by Discourse, best viewed with JavaScript enabled
+      
+    
+
+      
+      
+
+    
+    
+
+    
+    
+
+      
+        
+        
+        
+        
+      
+
+    
+    
+
+
+    
+
+    
+
+
+      
+    
+  

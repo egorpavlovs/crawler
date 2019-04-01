@@ -1,7 +1,8 @@
 
+  
+    
 
 
-Editing Template:FC Bayern Munich - Wikipedia
 
 
 
@@ -27,218 +28,230 @@ Editing Template:FC Bayern Munich - Wikipedia
 
 
 
-		
-		
-		
-			
-			
 
-Editing Template:FC Bayern Munich			
-								
-								Jump to navigation
-				Jump to search
-				 Group notice   Page notice 
 
- You are not logged in. Your IP address will be publicly visible if you make any edits. If you log in or create an account, your edits will be attributed to a user name, among other benefits.
 
 
-Content that violates any copyrights will be deleted. Encyclopedic content must be verifiable. Work submitted to Wikipedia can be edited, used, and redistributed—by anyone—subject to certain terms and conditions.
 
 
-Anti-spam check.
-Do not fill this in!
+    
 
+    
+    JSON:API — Extensions
+  
 
-{{Navbox
-|name = FC Bayern Munich
-|title = FC Bayern Munich
-|state = {{{state|autocollapse}}}
-|listclass = hlist
-|basestyle = background-color:#DD0000; color:#FFFFFF; {{box-shadow border|a|#0000FF|1px}}
-|group1 =Information
-|list1 =
-* [[FC Bayern Munich|Club]]
-* [[History of FC Bayern Munich|History]]
-* [[List of FC Bayern Munich players|Players]]
-* [[:Category:FC Bayern Munich managers|Managers]]
-* [[:Category:FC Bayern Munich matches|Matches]]
-* [[List of FC Bayern Munich records and statistics|Records & Statistics]]
-* [[FC Bayern Munich in international football competitions|International competitions]]
+  
+    
+  
+    
+      
+      
+        JSON API
+      
+        Specification
+      
+        Extensions
+      
+        Recommendations
+      
+        Examples
+      
+        Implementations
+      
+        FAQ
+      
+        About
+      
+      
+        v1.0 Stable
+      
+    
+  
 
-|group2 =Stadia
-|list2 =
-* [[Allianz Arena]]
-* [[Olympiastadion (Munich)|Olympiastadion]]
-* [[Grünwalder Stadion]]
-|group3 =Other teams
-|list3 =
-* [[FC Bayern Munich II|Reserve Team]]
-* [[FC Bayern Munich (women)|Women's Team]]
-* [[FC Bayern Munich Junior Team|Junior Team]]
-* [[FC Bayern Munich Basketball|Basketball Team]]
-|group4 =Seasons
-|list4 = 
-* [[List of FC Bayern Munich seasons|List of seasons]]
-* [[List of FC Bayern Munich (women) seasons|List of women's team seasons]]
-|group5 = Rivalries
-|list5 =
-* [[Munich derby]]
-* [[Bavarian football derbies#The Bavarian derby|Bavarian derby]]
-* [[Der Klassiker]]
-|group6 = Related articles
-|list6 =
-* [[Franz Beckenbauer Cup]]
-* [[Uli Hoeneß Cup]]
-}}<noinclude>
-{{collapsible option}}
-[[Category:Germany football club navigational boxes|Bayern Munich]]
-[[Category:FC Bayern Munich templates|Bayern Munich]]
-</noinclude>
 
-Edit summary (Briefly describe your changes)
+    
+    
+      
+        
+          
+            
+            
+              Extensions
+            
+          
+        
+      
+      
+        
+          
+            Extensions
+          
+        
+        
+          
+          
+  Note: This page describes features from version 1.1 of the JSON:API spec, and links to profiles that use those new features. Version 1.1 is in its release candidate stage, so there is a (very small) probability that the spec and/or these profiles could change before v1.1 is released on January 31, 2019 (provided there are two compliant implementations by that date; if not the release will wait until such implementations exist to prove its viability).
 
-By publishing changes, you agree to the Terms of Use, and you irrevocably agree to release your contribution under the CC BY-SA 3.0 License and the GFDL. You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.
 
+JSON:API can be extended with profiles. These profiles enable an API to
+provide clients with information or functionality beyond that described
+in the base JSON:API specification.
 
+Anyone can author a profile, and a single profile can be reused by multiple APIs.
+Popular profiles may be implemented by off-the-shelf tools so that developers
+can seamlessly take advantage of the features these profiles provide.
 
+ Existing Profiles
 
 
-	Cancel
-	Editing help (opens in new window)
-
-Preview page with this template (what's this?)
-
-
-
-
-Copy and paste: – — ° ′ ″ ≈ ≠ ≤ ≥ ± − × ÷ ← → · §   Sign your posts on talk pages: ~~~~   Cite your sources: <ref></ref> 
-
-
-
-{{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &nbsp;   <s></s>   <sup></sup>   <sub></sub>   <code></code>   <pre></pre>   <blockquote></blockquote>   <ref></ref> <ref name="" />   {{Reflist}}   <references />   <includeonly></includeonly>   <noinclude></noinclude>   {{DEFAULTSORT:}}   <nowiki></nowiki>   <!-- -->   <span class="plainlinks"></span> 
-
-
-
-
-Symbols: ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ∞   ‘ ’ “ ” ‹› «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ № ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   ♭ ♯ ♮   © ® ™
-Latin: A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç   D d Ď ď Đ đ Ḍ ḍ Ð ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ Ɛ ɛ Ǝ ǝ Ə ə   F f   G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ọ ọ Ő ő Ø ø Œ œ   Ɔ ɔ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ   S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß Ð ð Þ þ Ŋ ŋ Ə ə 
-Greek: Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ   Ι ι Κ κ Λ λ Μ μ   Ν ν Ξ ξ Ο ο Π π   Ρ ρ Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω ω   {{Polytonic|}} 
-Cyrillic: А а Б б В в Г г   Ґ ґ Ѓ ѓ Д д Ђ ђ   Е е Ё ё Є є Ж ж   З з Ѕ ѕ И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   Н н Њ њ О о П п   Р р С с Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч Џ џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э э Ю ю Я я   ́ 
-IPA: t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ β θ ð ʃ ʒ ɕ ʑ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ⱱ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ ʍ ɧ   ʼ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ ǁ   ɨ ʉ ɯ   ɪ ʏ ʊ   ø ɘ ɵ ɤ   ə ɚ   ɛ œ ɜ ɝ ɞ ʌ ɔ   æ   ɐ ɶ ɑ ɒ   ʰ ʱ ʷ ʲ ˠ ˤ ⁿ ˡ   ˈ ˌ ː ˑ ̪   {{IPA|}}
-
-
-
-Wikidata entities used in this page
-
-Template:FC Bayern Munich: Sitelink
-Pages transcluded onto the current version of this page (help) :
-
-Template:Big (view source) (template protected)Template:Box-shadow border (view source) (template protected)Template:Box-shadow border/css (view source) (template protected)Template:Collapsible option (view source) (template protected)Template:Navbox (view source) (template protected)Template:Para (view source) (template protected)Template:Template other (view source) (protected)Module:Arguments (view source) (protected)Module:Color contrast (view source) (template protected)Module:Color contrast/colors (view source) (template protected)Module:Navbar (view source) (protected)Module:Navbox (view source) (template protected)This page is a member of 1 hidden category (help) :
-
-Category:Navboxes using background colours
-
-
-					
-						Retrieved from "https://en.wikipedia.org/wiki/Template:FC_Bayern_Munich"					
-								
-							
-		
-		
-			Navigation menu
-			
-									
-						Personal tools
-						
-							Not logged inTalkContributionsCreate accountLog in						
-					
-									
-										
-						Namespaces
-						
-							TemplateTalk						
-					
-										
-												
-						
-							Variants
-						
-						
-													
-					
-									
-				
-										
-						Views
-						
-							ReadEditView history						
-					
-										
-						
-						More
-						
-													
-					
-										
-						
-							Search
-						
-						
-							
-															
-						
-					
-									
-			
-			
-				
-						
-			Navigation
-			
-								
-					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
-							
-		
-			
-			Interaction
-			
-								
-					HelpAbout WikipediaCommunity portalRecent changesContact page				
-							
-		
-			
-			Tools
-			
-								
-					What links hereRelated changesUpload fileSpecial pagesPage informationWikidata item				
-							
-		
-			
-			Languages
-			
-								
-									
-							
-		
-				
-		
-				
-						
-								Privacy policy
-								About Wikipedia
-								Disclaimers
-								Contact Wikipedia
-								Developers
-								Cookie statement
-								Mobile view
-							
-										
-										
-											
-										
-											
-									
-						
-		
-		
-
-	
+    Pagination
+  
+
+    
+      
+        Cursor Pagination
+        Enables pagination forward and backwards from a client-provided cursor, with
+a client-controlled page size.
+
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+ Creating a New Profile
+
+ Before Creating a Profile
+
+Please check whether an existing profile fits your needs or could be amended
+to fit your needs before developing a new one.
+
+
+  
+    If a suitable profile already exists, consider using it. Having fewer, more
+widely-deployed profiles makes it easier to create shared tooling.
+  
+  
+    If there’s an existing profile that could be amended to fit your needs,
+consider asking the profile’s author if they would be willing to modify it as
+needed. Contact them through the information in their profile’s registration
+and give them some time to reply.
+  
+
+
+ Authoring Your Profile
+
+To author your profile, download and fill out the template.
+
+ Register & Use Your Profile
+
+Once you’ve authored your profile, submit it to the JSON:API profile registry.
+By registering your profile:
+
+
+  
+    it will be listed above for others to find and reuse.
+  
+  
+    it will be given an official url on jsonapi.org. This will be the URL you and
+others use to apply/identify the profile.
+  
+  
+    one of the JSON:API’s editors will review your submission to check that it
+follows the requirements for profiles.
+These requirements can be a bit tricky, so getting an expert review ensures
+that your profile is legal for use with JSON:API.
+  
+
+
+To register your profile:
+
+
+  
+    Choose a namespace, which is a name that uniquely identifies you or your
+organization. (All profiles authored by the same person or organization are
+registered under the same namespace, to prevent naming conflicts.) This
+namespace should be your Github username, or the name of a Github organization
+to which you belong. In unusual circumstances, you can request to use a
+different name as the namespace in your PR (see below).
+  
+  
+    Create a PR to the json-api repository.
+In the PR, make a directory at _profiles/{NAMESPACE}/{PROFILE_NAME} (where
+PROFILE_NAME is the name of your profile, dasherized), and put your filled
+out template as the index.md file in that directory folder. (See an example.)
+  
+
+
+Once submitted, one of JSON:API’s editors will review your profile to check that it:
+
+
+  follows the template above;
+  is specified precisely enough to enable interoperable implementations;
+  complies with the JSON:API spec and its requirements for profiles;
+  follows JSON:API’s recommended naming conventions; and
+  wouldn’t cause any problems were it to become widely adopted.
+
+
+If your profile meets these criteria, it will generally be approved within a week.
+
+In limited cases (e.g., if your profile defines a new, fundamental mechanism for
+doing something “architectural” that other profiles may need to do too), it might
+take longer for the reviewer to adequately check that the profile wouldn’t have
+problematic ramifications if it became widely adopted.
+
+As part of this review, the editors or the community might also give design
+feedback on your submission. You can take as much time as you’d like to act on/
+respond to this feedback, and the editors will wait for you to say that your
+submission is finalized before merging your PR. You are encouraged, but not
+required, to act on any design feedback.
+
+If you do change your submission after it’s been reviewed, it will be re-reviewed
+to make sure it still complies with the requirements for approval given above.
+
+JSON:API’s editors may occasionally reassign responsibility for a registered
+profile. The most common reason for this will be to enable changes to be made
+to profiles where the author of the registration has died, moved out of contact 
+or is otherwise unable to make changes that are important to the community.
+
+Even though profile registration is strongly encouraged, it is not mandatory.
+If you choose not to register your profile, you can create your own URL, on
+a domain you control, and use that to identify your profile. You should
+self-host the filled out template at this URL.
+
+ Prior Extensions
+
+JSON:API previously offered experimental support for a different extension
+negotiation system than the one now in the specification, and it provided a
+number of extensions for use with that old negotiation system. However, this
+system was always experimental and has now been deprecated.
+
+New APIs should not use the old system or any extensions designed for it.
+APIs that already use these old extensions should direct clients to an
+earlier version of this page
+as documentation.
+
+        
+      
+    
+    
+  
+    Built with Jekyll and Highlight.js
+    
+      
+    
+    
+      Twitter
+      GitHub
+      Discussion Forum
+    
+  
+
+
+
+  
+
